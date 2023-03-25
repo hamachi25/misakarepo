@@ -25,7 +25,7 @@
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089108793561993236/clock_asahi.png",
             "HeaderImage": "null",
             "Category": null,
-            "Caption": "null",
+            "Caption": "misakaのバグ修正待ち",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1089129746190843955/cE4FZYiu4S2.jpg"
             ],
@@ -42,58 +42,6 @@
                 }
             ],
             "PackageID": "com.Kumiki.ClockOnimai"
-        },
-       {
-            "Name": "ねむ時計",
-            "Description": "おにまい",
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1088892806476615710/nemu1.png",
-            "HeaderImage": "null",
-            "Category": null,
-            "Caption": "null",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1088891883985580152/Clock_Nemu.misaka",
-                    "Description": "null"
-                }
-            ],
-            "PackageID": "com.Kumiki.ClockNemu"
-        },
-       {
-            "Name": "あさひ時計",
-            "Description": "おにまい",
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1088893619018141716/asahi1.png",
-            "HeaderImage": "null",
-            "Category": null,
-            "Caption": "null",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1088891902797033532/Clock_Asahi.misaka",
-                    "Description": "null"
-                }
-            ],
-            "PackageID": "com.Kumiki.ClockAsahi"
         },
         {
             "Name": "Torch&Camera FIX",
@@ -121,8 +69,13 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1088718434231140442/com.34306.tnc.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Torch.Cam.misaka",
                     "Description": "Torch and Camera or checkra1n and snowflake? 🤣"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089143088963911771/com.34306.tnc.misaka",
+                    "Description": "@2xに対応、ファイルサイズを縮小"
                 }
             ],
             "PackageID": "com.34306.tnc"
@@ -153,11 +106,53 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1088763508973371503/com.34306.mhrclock.misaka",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Mihari.clock.misaka",
                     "Description": "Onimaiiii!"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1088763508973371503/com.34306.mhrclock.misaka",
+                    "Description": "ファイルサイズを縮小"
                 }
             ],
             "PackageID": "com.34306.mhrclock"
+        },
+        {
+            "Name": "LS UI YangJiii FIX",
+            "Description": "Change camera and flash icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+                    {
+                        "Label": "Kumiki (FIX)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/uilsyangjiii.jpg",
+            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "Category": "LS UI",
+            "Caption": "Change camera and flash icon",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuiyangjiii1.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
+                  "Description": "Change camera and flash icon"
+              },
+              {
+                "Version": "1.1",
+                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089138594154815498/com.yangjiii.yangjiuils.misaka",
+                "Description": "ファイルサイズを縮小"
+              }
+            ],
+            "PackageID": "com.yangjiii.yangjiuils"
         }
     ]
 }
