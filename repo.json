@@ -7,6 +7,38 @@
     "DefaultHeaderImage": null,
     "RepositoryContents": [
        {
+            "Name": "おにまい時計",
+            "Description": "おにまい",
+            "Author": {
+                "Label": "Kumiki",
+                "Links": [
+                    {
+                        "Label": "Kumiki",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    },
+                    {
+                        "Label": "ChromiumCandy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089108793561993236/clock_asahi.png",
+            "HeaderImage": "null",
+            "Category": null,
+            "Caption": "null",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1089034033138245712/cE4FZYiu4S2.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1089068018111369366/Clock_Onimai.misaka",
+                    "Description": "null"
+                }
+            ],
+            "PackageID": "com.Kumiki.ClockOnimai"
+        },
+       {
             "Name": "ねむ時計",
             "Description": "おにまい",
             "Author": {
@@ -22,9 +54,7 @@
             "HeaderImage": "null",
             "Category": null,
             "Caption": "null",
-            "Screenshot": [
-                "null"
-            ],
+            "Screenshot": null,
             "Releases": [
                 {
                     "Version": "1.0",
@@ -50,9 +80,7 @@
             "HeaderImage": "null",
             "Category": null,
             "Caption": "null",
-            "Screenshot": [
-                "null"
-            ],
+            "Screenshot": null,
             "Releases": [
                 {
                     "Version": "1.0",
