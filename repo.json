@@ -17,7 +17,7 @@
                         "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     },
                     {
-                        "Label": "ChromiumCandy",
+                        "Label": "ChromiumCandy (FIX)",
                         "Link": "https://twitter.com/ChromiumCandy"
                     }
                 ]
@@ -27,13 +27,18 @@
             "Category": null,
             "Caption": "null",
             "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1089034033138245712/cE4FZYiu4S2.jpg"
+                "https://cdn.discordapp.com/attachments/957426517107949612/1089129746190843955/cE4FZYiu4S2.jpg"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1089068018111369366/Clock_Onimai.misaka",
                     "Description": "null"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089128548113072138/com.Kumiki.ClockOnimai.misaka",
+                    "Description": "ファイルサイズを縮小"
                 }
             ],
             "PackageID": "com.Kumiki.ClockOnimai"
@@ -91,7 +96,7 @@
             "PackageID": "com.Kumiki.ClockAsahi"
         },
         {
-            "Name": "Torch&CameraFIX",
+            "Name": "Torch&Camera FIX",
             "Description": "Change Torch and Camera icon to checkra1n and Snowflake icon",
             "Author": {
                 "Label": "34306",
@@ -123,7 +128,7 @@
             "PackageID": "com.34306.tnc"
         },
         {
-            "Name": "Mihari clock (Homescreen)FIX",
+            "Name": "Mihari clock (Homescreen) FIX",
             "Description": "Mahiro-chan does not like it",
             "Author": {
                 "Label": "34306",
