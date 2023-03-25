@@ -1,14 +1,14 @@
 {
-    "RepositoryName": "くみき",
-    "RepositoryDescription": null,
-    "RepositoryAuthor": "くみき",
+    "RepositoryName": "Kumiki",
+    "RepositoryDescription": "Mainly fix and anime",
+    "RepositoryAuthor": "Kumiki",
     "RepositoryIcon": "https://cdn.discordapp.com/avatars/850370781456367688/d9a15adf2f9e5a3b0b0a6ed25d92432f.webp",
     "RepositoryWebsite": null,
     "DefaultHeaderImage": null,
     "RepositoryContents": [
        {
             "Name": "おにまい時計",
-            "Description": "おにまい",
+            "Description": "Onimai",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
@@ -25,9 +25,9 @@
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089108793561993236/clock_asahi.png",
             "HeaderImage": "null",
             "Category": null,
-            "Caption": "misakaのバグ修正待ち",
+            "Caption": "あさひ、ねむ、もみじを Tweak Settingsから選択可！\nAsahi, Nemu and Momiji can be selected from Tweak Settings!",
             "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1089129746190843955/cE4FZYiu4S2.jpg"
+                "https://cdn.discordapp.com/attachments/957426517107949612/1089169212175564921/PNG.jpg"
             ],
             "Releases": [
                 {
@@ -37,8 +37,8 @@
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089128548113072138/com.Kumiki.ClockOnimai.misaka",
-                    "Description": "ファイルサイズを縮小"
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089166995527835668/com.Kumiki.ClockOnimai.misaka",
+                    "Description": "Reduce file size"
                 }
             ],
             "PackageID": "com.Kumiki.ClockOnimai"
@@ -75,7 +75,7 @@
                 {
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089143088963911771/com.34306.tnc.misaka",
-                    "Description": "@2xに対応、ファイルサイズを縮小"
+                    "Description": "Support @2x, reduce file size"
                 }
             ],
             "PackageID": "com.34306.tnc"
@@ -112,7 +112,7 @@
                 {
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1088763508973371503/com.34306.mhrclock.misaka",
-                    "Description": "ファイルサイズを縮小"
+                    "Description": "Reduce file size"
                 }
             ],
             "PackageID": "com.34306.mhrclock"
@@ -149,7 +149,7 @@
               {
                 "Version": "1.1",
                 "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089138594154815498/com.yangjiii.yangjiuils.misaka",
-                "Description": "ファイルサイズを縮小"
+                "Description": "Reduce file size"
               }
             ],
             "PackageID": "com.yangjiii.yangjiuils"
