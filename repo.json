@@ -61,6 +61,70 @@
                 }
             ],
             "PackageID": "com.Kumiki.ClockAsahi"
+        },
+        {
+            "Name": "Torch&CameraFIX",
+            "Description": "Change Torch and Camera icon to checkra1n and Snowflake icon",
+            "Author": {
+                "Label": "34306",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    },
+                    {
+                        "Label": "Kumiki (FIX)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0515.jpeg",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
+            "Category": null,
+            "Caption": "checkra1n bright your light",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/torch_and_cam.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1088718434231140442/com.34306.tnc.misaka",
+                    "Description": "Torch and Camera or checkra1n and snowflake? 🤣"
+                }
+            ],
+            "PackageID": "com.34306.tnc"
+        },
+        {
+            "Name": "Mihari clock (Homescreen)FIX",
+            "Description": "Mahiro-chan does not like it",
+            "Author": {
+                "Label": "34306",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    },
+                    {
+                        "Label": "しまじろん (FIX)",
+                        "Link": "https://twitter.com/9rv0ifi2qk8wx9r/status/1628317914263859202?s=46&t=x7qR0YjDQ5I_EkRaZojZpQ"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/onimai.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
+            "Category": null,
+            "Caption": "Mahiro-chan does not want to become a girl, Mihari 🥺",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0530.jpeg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1088763508973371503/com.34306.mhrclock.misaka",
+                    "Description": "Onimaiiii!"
+                }
+            ],
+            "PackageID": "com.34306.mhrclock"
         }
     ]
 }
