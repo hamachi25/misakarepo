@@ -50,7 +50,7 @@
         },
         {
             "Name": "Clock",
-            "Description": "",
+            "Description": "Normal Clock",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
@@ -72,7 +72,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.Kumiki.Clocknormal"
+            "PackageID": "com.Kumiki.ClockNormal"
         },
         {
             "Name": "[FIX]Torch&Camera",
