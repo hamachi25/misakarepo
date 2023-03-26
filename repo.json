@@ -49,6 +49,32 @@
             "PackageID": "com.Kumiki.ClockOnimai"
         },
         {
+            "Name": "Clock",
+            "Description": "",
+            "Author": {
+                "Label": "Kumiki",
+                "Links": [
+                    {
+                        "Label": "Kumiki",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089442137533317122/efhuaheuha.png",
+            "HeaderImage": "null",
+            "Category": null,
+            "Caption": "",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089442152909647942/clock.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.Kumiki.Clocknormal"
+        },
+        {
             "Name": "[FIX]Torch&Camera",
             "Description": "Change Torch and Camera icon to checkra1n and Snowflake icon",
             "Author": {
