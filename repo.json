@@ -39,6 +39,11 @@
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089166995527835668/com.Kumiki.ClockOnimai.misaka",
                     "Description": "Reduce file size"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089360686372638781/com.Kumiki.ClockOnimai.misaka",
+                    "Description": "Responding to specification changes"
                 }
             ],
             "PackageID": "com.Kumiki.ClockOnimai"
