@@ -22,12 +22,12 @@
                     }
                 ]
             },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089108793561993236/clock_asahi.png",
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089499848165826560/clock_asahi.png",
             "HeaderImage": "null",
             "Category": null,
             "Caption": "あさひ、ねむ、もみじを Tweak Settingsから選択可！\nAsahi, Nemu and Momiji can be selected from Tweak Settings!",
             "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1089169212175564921/PNG.jpg"
+                "https://cdn.discordapp.com/attachments/957426517107949612/1089499848425881621/PNG.jpg"
             ],
             "Releases": [
                 {
@@ -42,7 +42,7 @@
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089360686372638781/com.Kumiki.ClockOnimai.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089500119138832484/com.Kumiki.ClockOnimai.misaka",
                     "Description": "Responding to specification changes"
                 }
             ],
@@ -60,16 +60,23 @@
                     }
                 ]
             },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089442137533317122/efhuaheuha.png",
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089498384030765097/efjaiohefu.png",
             "HeaderImage": "null",
             "Category": null,
-            "Caption": "",
-            "Screenshot": null,
+            "Caption": null,
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1089501898731700344/PNG.jpg"
+            ],
             "Releases": [
                 {
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089442152909647942/clock.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089499112493301760/com.Kumiki.ClockNormal.misaka",
+                    "Description": "Additional clock types"
                 }
             ],
             "PackageID": "com.Kumiki.ClockNormal"
