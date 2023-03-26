@@ -33,7 +33,7 @@
                 {
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1089068018111369366/Clock_Onimai.misaka",
-                    "Description": "null"
+                    "Description": null
                 },
                 {
                     "Version": "1.1",
@@ -83,7 +83,7 @@
                     "Description": "Support @2x, reduce file size"
                 }
             ],
-            "PackageID": "com.34306.tnc"
+            "PackageID": "com.34306.tncfix"
         },
         {
             "Name": "[FIX]Mihari clock (Homescreen)",
@@ -120,7 +120,7 @@
                     "Description": "Reduce file size"
                 }
             ],
-            "PackageID": "com.34306.mhrclock"
+            "PackageID": "com.34306.mhrclockfix"
         },
         {
             "Name": "[FIX]LS UI iOS15",
@@ -157,7 +157,7 @@
                 "Description": "Reduce file size"
               }
             ],
-            "PackageID": "com.coolwcat.lsui15"
+            "PackageID": "com.coolwcat.lsui15fix"
         },
         {
             "Name": "[FIX]6G&9G",
@@ -195,7 +195,7 @@
                 "Description": "Delete unnecessary parts of plist files"
               }
             ],
-            "PackageID": "com.coolwcat.4-5g-6-9g"
+            "PackageID": "com.coolwcat.4-5g-6-9gfix"
         },
         {
             "Name": "[FIX]No Older Notifications",
@@ -234,7 +234,7 @@
                 "Description": "Delete unnecessary parts of plist files, support custom text"
               }
             ],
-            "PackageID": "com.coolwcat.nooldernotifications"
+            "PackageID": "com.coolwcat.nooldernotificationsfix"
         }
     ]
 }
