@@ -261,44 +261,6 @@
               }
             ],
             "PackageID": "com.coolwcat.nooldernotificationsfix"
-        },
-        {
-            "Name": "TEST",
-            "Description": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "coolwcat",
-                "Links": [
-                    {
-                        "Label": "coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    },
-                    {
-                        "Label": "Kumiki (FIX)",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-            "Category": "Cellular",
-            "Caption": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/moduletransparent.png"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.nooldernotifications.misaka",
-                  "Description": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。"
-              },
-              {
-                "Version": "1.1",
-                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089176666640752720/com.coolwcat.nooldernotifications.misaka",
-                "Description": "Delete unnecessary parts of plist files, support custom text"
-              }
-            ],
-            "PackageID": "com.coolwcat.nooldernotificationsfix"
         }
     ]
 }
