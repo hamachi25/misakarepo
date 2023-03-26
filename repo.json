@@ -82,6 +82,40 @@
             "PackageID": "com.Kumiki.ClockNormal"
         },
         {
+            "Name": "NoBatteryWidgetText",
+            "Description": "ios15&ios16",
+            "Author": {
+                "Label": "Kumiki",
+                "Links": [
+                    {
+                        "Label": "Kumiki",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    },
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    },
+                    {
+                        "Label": "haxi0",
+                        "Link": "https://twitter.com/haxi0sm"
+                    }
+                ]
+            },
+            "Icon": null,
+            "HeaderImage": "null",
+            "Category": null,
+            "Caption": null,
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089602916102455417/NoBatteryWidget.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.Kumiki.NoBatteryWidgetText"
+        },
+        {
             "Name": "[FIX]Torch&Camera",
             "Description": "Change Torch and Camera icon to checkra1n and Snowflake icon",
             "Author": {
@@ -268,6 +302,43 @@
               }
             ],
             "PackageID": "com.coolwcat.nooldernotificationsfix"
+        },
+        {
+            "Name": "[FIX]LS UI YangJiii",
+            "Description": "Change camera and flash icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+                    {
+                        "Label": "Kumiki (FIX)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/uilsyangjiii.jpg",
+            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "Category": "LS UI",
+            "Caption": "Change camera and flash icon",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuiyangjiii1.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
+                  "Description": "Change camera and flash icon"
+              },
+              {
+                "Version": "1.1",
+                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089602664385486908/LSyangjiii.misaka",
+                "Description": "Responding to specification changes"
+            }
+            ],
+            "PackageID": "com.yangjiii.yangjiuilsfix"
         }
     ]
 }
