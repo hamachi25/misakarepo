@@ -82,163 +82,8 @@
             "PackageID": "com.Kumiki.ClockNormal"
         },
         {
-            "Name": "[TEST]NoBatteryWidgetText",
-            "Description": "Compatible with iOS15 and iOS16",
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    },
-                    {
-                        "Label": "34306",
-                        "Link": "https://twitter.com/Little_34306"
-                    },
-                    {
-                        "Label": "haxi0",
-                        "Link": "https://twitter.com/haxi0sm"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089741153592684584/IMG_0382.jpg",
-            "HeaderImage": null,
-            "Category": null,
-            "Caption": "Compatible with iOS15 and iOS16",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089602916102455417/NoBatteryWidget.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.Kumiki.NoBatteryWidgetTexttest"
-        },
-        {
-            "Name": "[TEST]NoSwipeUpToOpen",
-            "Description": "Compatible with iOS15 and iOS16",
-            "Author": {
-                "Label": "Kumiki & ChromiumCandy",
-                "Links": [
-                    {
-                        "Label": "Kumiki (Main Dev)",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    },
-                    {
-                        "Label": "YangJiii (path)",
-                        "Link": "https://twitter.com/duongduong0908"
-                    },
-                    {
-                        "Label": "ChromiumCandy(support)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    },
-                    {
-                        "Label": "瑞秋(Icon)",
-                        "Link": "https://twitter.com/fall20c"
-                    }
-                ]
-            },
-            "Icon": "https://pbs.twimg.com/media/Fq_By3tacAAztpl?format=jpg&name=small",
-            "Category": null,
-            "Caption": "Remove Swipe up to open text",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1081434318762672199/CoverSheet.strings.vdf",
-                    "Description": "First relaese by Kumiki"
-                },
-                {
-                    "Version": "0.2",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082118170212577290/NoSwipeUpToOpen.vdf",
-                    "Description": "english support added by ChromiumCandy"
-                },
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087230536474427392/com.Kumiki.NoSwipeUpToOpen.misaka",
-                    "Description": ".vdf to .misaka, multi language & custom text support by ChromiumCandy"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088655077704749067/com.Kumiki.NoSwipeUpToOpen.misaka",
-                    "Description": "Creddit added"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089748450146537523/com.Kumiki.NoSwipeUpToOpen.misaka",
-                    "Description": "Compatible with iOS15 and iOS16"
-                }
-            ],
-            "PackageID": "com.Kumiki.NoSwipeUpToOpentest"
-        },
-        {
-            "Name": "[TEST]14DND",
-            "Description": "Compatible with iOS15 and iOS16",
-            "Author": {
-                "Label": "Kumiki & ChromiumCandy",
-                "Links": [
-                    {
-                        "Label": "ChromiumCandy (Main Dev)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    },
-                    {
-                        "Label": "Kumiki (Path,Testing,Bug fixes)",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1082837444858237058/IMG_1928.png",
-            "Category": null,
-            "Caption": "The new DND module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/1079074514257838130/1082822841172504646/IMG_1928.png",
-                "https://cdn.discordapp.com/attachments/1079074514257838130/1082635887420121088/PNG.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082291723155296318/iOS14styleDnDmodule.vdf",
-                    "Description": "First relaese by ChromiumCandy"
-                },
-                {
-                    "Version": "0.2",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082630156377673769/iOS14styleDnDmodule.vdf",
-                    "Description": "Network module bug fix by Kumiki"
-                },
-                {
-                    "Version": "0.3",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082635886585462814/iOS14styleDnDmodule.vdf",
-                    "Description": "Also hide the text when toggle is on.\nnote : this also hide the texts when you log pressed it, so if you don't like this, downgrade it to v0.2"
-                },
-                {
-                    "Version": "0.4",
-                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1083226460849983628/14DND.vdf",
-                    "Description": "Bug fix"
-                },
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589448720464/com.ChromiumCandy.14DND.misaka",
-                    "Description": ".vdf to .misaka"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088766675064725504/com.ChromiumCandy.14DND.misaka",
-                    "Description": "bug fix by Kumiki"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089753342454018098/com.ChromiumCandy.14DND.misaka",
-                    "Description": "Compatible with iOS15 and iOS16"
-                }
-            ],
-            "PackageID": "com.ChromiumCandy.14DNDtest"
-        },
-        {
-            "Name": "[TEST]Font Clock Group 1",
-            "Description": "Compatible with iOS15 and iOS16",
+            "Name": "[FIX]LS UI YangJiii",
+            "Description": "Currently unavailable.",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
@@ -247,31 +92,31 @@
                         "Link": "https://twitter.com/duongduong0908"
                     },
                     {
-                        "Label": "Kumiki",
+                        "Label": "Kumiki (FIX)",
                         "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/uilsyangjiii.jpg",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "Font",
-            "Caption": "Change clock font on ios 15",
+            "Category": "LS UI",
+            "Caption": "Change camera and flash icon",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuiyangjiii1.jpg"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15.1.0.misaka",
-                  "Description": "Change clock font on ios 15"
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
+                  "Description": "Change camera and flash icon"
               },
               {
                 "Version": "1.1",
-                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089759125690396763/com.yangjiii.fontclock15.1.0.misaka",
-                "Description": "Compatible with iOS15 and iOS16"
+                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089859033076350976/LSyangjiii.misaka",
+                "Description": "Responding to specification changes"
             }
             ],
-            "PackageID": "com.yangjiii.fontclock15.1.0test"
+            "PackageID": "com.yangjiii.yangjiuilsfix"
         },
         {
             "Name": "[FIX]Torch&Camera",
@@ -305,10 +150,47 @@
                 {
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089143088963911771/com.34306.tnc.misaka",
-                    "Description": "Support @2x, reduce file size"
+                    "Description": "Support @2x"
                 }
             ],
             "PackageID": "com.34306.tncfix"
+        },
+        {
+            "Name": "[FIX]ElementTorch",
+            "Description": "Change Torch icon to Genshin elements",
+            "Author": {
+                "Label": "34306",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    },
+                    {
+                        "Label": "Kumiki (FIX)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/A7569540-B7B5-4073-9D1C-6960215ED017.png",
+            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "Category": null,
+            "Caption": "Change Torch and Camera icon to Genshin Elements\nSupport both iOS 15 and 16",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/34306/iPA/main/img/31C4635A-A29D-4E94-B408-2E3DC063ADA6.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/GenshinTorch.misaka",
+                    "Description": "Little 34306 in your area!"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089857801398009986/com.34306.gstorch.misaka",
+                    "Description": "Support @2x"
+                }
+            ],
+            "PackageID": "com.34306.gstorch"
         },
         {
             "Name": "[FIX]Mihari clock (Homescreen)",
@@ -463,8 +345,163 @@
             "PackageID": "com.coolwcat.nooldernotificationsfix"
         },
         {
-            "Name": "[FIX]LS UI YangJiii",
-            "Description": "Change camera and flash icon",
+            "Name": "[TEST]NoBatteryWidgetText",
+            "Description": "Currently unavailable.",
+            "Author": {
+                "Label": "Kumiki",
+                "Links": [
+                    {
+                        "Label": "Kumiki",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    },
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    },
+                    {
+                        "Label": "haxi0",
+                        "Link": "https://twitter.com/haxi0sm"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089741153592684584/IMG_0382.jpg",
+            "HeaderImage": null,
+            "Category": null,
+            "Caption": "[Currently unavailable]Compatible with iOS15 and iOS16",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089602916102455417/NoBatteryWidget.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.Kumiki.NoBatteryWidgetTexttest"
+        },
+        {
+            "Name": "[TEST]NoSwipeUpToOpen",
+            "Description": "Currently unavailable.",
+            "Author": {
+                "Label": "Kumiki & ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "Kumiki (Main Dev)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    },
+                    {
+                        "Label": "YangJiii (path)",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+                    {
+                        "Label": "ChromiumCandy(support)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "瑞秋(Icon)",
+                        "Link": "https://twitter.com/fall20c"
+                    }
+                ]
+            },
+            "Icon": "https://pbs.twimg.com/media/Fq_By3tacAAztpl?format=jpg&name=small",
+            "Category": null,
+            "Caption": "[Currently unavailable]Remove Swipe up to open text",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1081434318762672199/CoverSheet.strings.vdf",
+                    "Description": "First relaese by Kumiki"
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082118170212577290/NoSwipeUpToOpen.vdf",
+                    "Description": "english support added by ChromiumCandy"
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087230536474427392/com.Kumiki.NoSwipeUpToOpen.misaka",
+                    "Description": ".vdf to .misaka, multi language & custom text support by ChromiumCandy"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088655077704749067/com.Kumiki.NoSwipeUpToOpen.misaka",
+                    "Description": "Creddit added"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089748450146537523/com.Kumiki.NoSwipeUpToOpen.misaka",
+                    "Description": "Compatible with iOS15 and iOS16"
+                }
+            ],
+            "PackageID": "com.Kumiki.NoSwipeUpToOpentest"
+        },
+        {
+            "Name": "[TEST]14DND",
+            "Description": "Currently unavailable.",
+            "Author": {
+                "Label": "Kumiki & ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy (Main Dev)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "Kumiki (Path,Testing,Bug fixes)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1082837444858237058/IMG_1928.png",
+            "Category": null,
+            "Caption": "[Currently unavailable]The new DND module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/1079074514257838130/1082822841172504646/IMG_1928.png",
+                "https://cdn.discordapp.com/attachments/1079074514257838130/1082635887420121088/PNG.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082291723155296318/iOS14styleDnDmodule.vdf",
+                    "Description": "First relaese by ChromiumCandy"
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082630156377673769/iOS14styleDnDmodule.vdf",
+                    "Description": "Network module bug fix by Kumiki"
+                },
+                {
+                    "Version": "0.3",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082635886585462814/iOS14styleDnDmodule.vdf",
+                    "Description": "Also hide the text when toggle is on.\nnote : this also hide the texts when you log pressed it, so if you don't like this, downgrade it to v0.2"
+                },
+                {
+                    "Version": "0.4",
+                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1083226460849983628/14DND.vdf",
+                    "Description": "Bug fix"
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589448720464/com.ChromiumCandy.14DND.misaka",
+                    "Description": ".vdf to .misaka"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088766675064725504/com.ChromiumCandy.14DND.misaka",
+                    "Description": "bug fix by Kumiki"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089753342454018098/com.ChromiumCandy.14DND.misaka",
+                    "Description": "Compatible with iOS15 and iOS16"
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.14DNDtest"
+        },
+        {
+            "Name": "[TEST]Font Clock Group 1",
+            "Description": "Currently unavailable.",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
@@ -473,31 +510,31 @@
                         "Link": "https://twitter.com/duongduong0908"
                     },
                     {
-                        "Label": "Kumiki (FIX)",
+                        "Label": "Kumiki",
                         "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/uilsyangjiii.jpg",
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "LS UI",
-            "Caption": "Change camera and flash icon",
+            "Category": "Font",
+            "Caption": "[Currently unavailable]Change clock font on ios 15",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuiyangjiii1.jpg"
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
-                  "Description": "Change camera and flash icon"
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15.1.0.misaka",
+                  "Description": "Change clock font on ios 15"
               },
               {
                 "Version": "1.1",
-                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089602664385486908/LSyangjiii.misaka",
-                "Description": "Responding to specification changes"
+                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089759125690396763/com.yangjiii.fontclock15.1.0.misaka",
+                "Description": "Compatible with iOS15 and iOS16"
             }
             ],
-            "PackageID": "com.yangjiii.yangjiuilsfix"
+            "PackageID": "com.yangjiii.fontclock15.1.0test"
         }
     ]
 }
