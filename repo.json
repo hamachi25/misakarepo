@@ -82,8 +82,8 @@
             "PackageID": "com.Kumiki.ClockNormal"
         },
         {
-            "Name": "NoBatteryWidgetText",
-            "Description": "ios15&ios16",
+            "Name": "[TEST]NoBatteryWidgetText",
+            "Description": "Compatible with iOS15 and iOS16",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
@@ -101,11 +101,13 @@
                     }
                 ]
             },
-            "Icon": null,
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089741153592684584/IMG_0382.jpg",
             "HeaderImage": "null",
             "Category": null,
-            "Caption": null,
-            "Screenshot": null,
+            "Caption": "Compatible with iOS15 and iOS16",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
+            ],
             "Releases": [
                 {
                     "Version": "1.0",
@@ -113,7 +115,163 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.Kumiki.NoBatteryWidgetText"
+            "PackageID": "com.Kumiki.NoBatteryWidgetTexttest"
+        },
+        {
+            "Name": "[TEST]NoSwipeUpToOpen",
+            "Description": "Compatible with iOS15 and iOS16",
+            "Author": {
+                "Label": "Kumiki & ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "Kumiki (Main Dev)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    },
+                    {
+                        "Label": "YangJiii (path)",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+                    {
+                        "Label": "ChromiumCandy(support)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "瑞秋(Icon)",
+                        "Link": "https://twitter.com/fall20c"
+                    }
+                ]
+            },
+            "Icon": "https://pbs.twimg.com/media/Fq_By3tacAAztpl?format=jpg&name=small",
+            "Category": null,
+            "Caption": "Remove Swipe up to open text",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1081434318762672199/CoverSheet.strings.vdf",
+                    "Description": "First relaese by Kumiki"
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082118170212577290/NoSwipeUpToOpen.vdf",
+                    "Description": "english support added by ChromiumCandy"
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087230536474427392/com.Kumiki.NoSwipeUpToOpen.misaka",
+                    "Description": ".vdf to .misaka, multi language & custom text support by ChromiumCandy"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088655077704749067/com.Kumiki.NoSwipeUpToOpen.misaka",
+                    "Description": "Creddit added"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089748450146537523/com.Kumiki.NoSwipeUpToOpen.misaka",
+                    "Description": "Compatible with iOS15 and iOS16"
+                }
+            ],
+            "PackageID": "com.Kumiki.NoSwipeUpToOpentest"
+        },
+        {
+            "Name": "[TEST]14DND",
+            "Description": "Compatible with iOS15 and iOS16",
+            "Author": {
+                "Label": "Kumiki & ChromiumCandy",
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy (Main Dev)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "Kumiki (Path,Testing,Bug fixes)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1082837444858237058/IMG_1928.png",
+            "Category": null,
+            "Caption": "The new DND module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/1079074514257838130/1082822841172504646/IMG_1928.png",
+                "https://cdn.discordapp.com/attachments/1079074514257838130/1082635887420121088/PNG.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082291723155296318/iOS14styleDnDmodule.vdf",
+                    "Description": "First relaese by ChromiumCandy"
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082630156377673769/iOS14styleDnDmodule.vdf",
+                    "Description": "Network module bug fix by Kumiki"
+                },
+                {
+                    "Version": "0.3",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082635886585462814/iOS14styleDnDmodule.vdf",
+                    "Description": "Also hide the text when toggle is on.\nnote : this also hide the texts when you log pressed it, so if you don't like this, downgrade it to v0.2"
+                },
+                {
+                    "Version": "0.4",
+                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1083226460849983628/14DND.vdf",
+                    "Description": "Bug fix"
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589448720464/com.ChromiumCandy.14DND.misaka",
+                    "Description": ".vdf to .misaka"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088766675064725504/com.ChromiumCandy.14DND.misaka",
+                    "Description": "bug fix by Kumiki"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089753342454018098/com.ChromiumCandy.14DND.misaka",
+                    "Description": "Compatible with iOS15 and iOS16"
+                }
+            ],
+            "PackageID": "com.ChromiumCandy.14DNDtest"
+        },
+        {
+            "Name": "[TEST]Font Clock Group 1",
+            "Description": "Compatible with iOS15 and iOS16",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+                    {
+                        "Label": "Kumiki",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "Category": "Font",
+            "Caption": "Change clock font on ios 15",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15.1.0.misaka",
+                  "Description": "Change clock font on ios 15"
+              },
+              {
+                "Version": "1.1",
+                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089759125690396763/com.yangjiii.fontclock15.1.0.misaka",
+                "Description": "Compatible with iOS15 and iOS16"
+            }
+            ],
+            "PackageID": "com.yangjiii.fontclock15.1.0test"
         },
         {
             "Name": "[FIX]Torch&Camera",
@@ -205,18 +363,19 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui15.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "LS UI",
             "Caption": "iOS 15 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15系统设备使用。",
             "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/4-5-6-9g-1.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.lsuiios15.misaka",
-                  "Description": "iOS 15 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15系统设备使用。"
+                  "Description": null
               },
               {
                 "Version": "1.1",
@@ -242,19 +401,19 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/4-5-6-9g.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/Cellular.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "Cellular",
             "Caption": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
             "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/4-5-6-9g-1.png",   
-                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/4-5-6-9g.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g.misaka",
-                  "Description": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用"
+                  "Description": null
               },
               {
                 "Version": "1.1",
@@ -281,8 +440,8 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications1.png",
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "Cellular",
             "Caption": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
             "Screenshot": [
@@ -293,7 +452,7 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.nooldernotifications.misaka",
-                  "Description": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。"
+                  "Description": null
               },
               {
                 "Version": "1.1",
