@@ -381,63 +381,6 @@
             "PackageID": "com.Kumiki.NoBatteryWidgetText"
         },
         {
-            "Name": "[TEST]NoSwipeUpToOpen",
-            "Description": "Compatible with iOS15 and iOS16",
-            "Author": {
-                "Label": "Kumiki & ChromiumCandy",
-                "Links": [
-                    {
-                        "Label": "Kumiki (Main Dev)",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    },
-                    {
-                        "Label": "YangJiii (path)",
-                        "Link": "https://twitter.com/duongduong0908"
-                    },
-                    {
-                        "Label": "ChromiumCandy(support)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    },
-                    {
-                        "Label": "瑞秋(Icon)",
-                        "Link": "https://twitter.com/fall20c"
-                    }
-                ]
-            },
-            "Icon": "https://pbs.twimg.com/media/Fq_By3tacAAztpl?format=jpg&name=small",
-            "Category": null,
-            "Caption": "Remove Swipe up to open text",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1081434318762672199/CoverSheet.strings.vdf",
-                    "Description": "First relaese by Kumiki"
-                },
-                {
-                    "Version": "0.2",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082118170212577290/NoSwipeUpToOpen.vdf",
-                    "Description": "english support added by ChromiumCandy"
-                },
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1087230536474427392/com.Kumiki.NoSwipeUpToOpen.misaka",
-                    "Description": ".vdf to .misaka, multi language & custom text support by ChromiumCandy"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088655077704749067/com.Kumiki.NoSwipeUpToOpen.misaka",
-                    "Description": "Creddit added"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089748450146537523/com.Kumiki.NoSwipeUpToOpen.misaka",
-                    "Description": "Compatible with iOS15 and iOS16"
-                }
-            ],
-            "PackageID": "com.Kumiki.NoSwipeUpToOpenfix"
-        },
-        {
             "Name": "[TEST]14DND",
             "Description": "Compatible with iOS15 and iOS16",
             "Author": {
