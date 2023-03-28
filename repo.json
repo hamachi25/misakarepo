@@ -328,7 +328,7 @@
             "Caption": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/nooldernotifications-1.png",   
-                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/nooldernotifications-2.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/nooldernotifications-2.png"
             ],
 			"Releases": [
               {
@@ -345,7 +345,7 @@
             "PackageID": "com.coolwcat.nooldernotificationsfix"
         },
         {
-            "Name": "[TEST]NoBatteryWidgetText",
+            "Name": "NoBatteryWidgetText",
             "Description": "Compatible with iOS15 and iOS16",
             "Author": {
                 "Label": "Kumiki",
@@ -436,7 +436,7 @@
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089753342454018098/com.ChromiumCandy.14DND.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090353491882541166/com.ChromiumCandy.14DNDfix.misaka",
                     "Description": "Compatible with iOS15 and iOS16"
                 }
             ],
@@ -482,7 +482,7 @@
         {
             "Name": "[TEST]おにまいLock",
             "Description": "Currently unavailable.",
-            "MinIOSVersion": "16.2",
+            "MinIOSVersion": "99.9",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
