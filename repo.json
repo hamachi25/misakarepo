@@ -376,6 +376,7 @@
         {
             "Name": "[TEST]NoBatteryWidgetText",
             "Description": "Currently unavailable.",
+            "MinIOSVersion": "16.2",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
