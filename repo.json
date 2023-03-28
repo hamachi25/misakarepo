@@ -345,38 +345,8 @@
             "PackageID": "com.coolwcat.nooldernotificationsfix"
         },
         {
-            "Name": "[TEST]おにまいLock",
-            "Description": "Currently unavailable.",
-            "MinIOSVersion": "16.2",
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
-            "HeaderImage": null,
-            "Category": null,
-            "Caption": "[Currently unavailable]",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1090183822705971200/onimailock.mp4"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090177834359734282/onimailock.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.Kumiki.LockOnimai"
-        },
-        {
             "Name": "[TEST]NoBatteryWidgetText",
-            "Description": "Currently unavailable.",
-            "MinIOSVersion": "16.2",
+            "Description": "Compatible with iOS15 and iOS16",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
@@ -397,7 +367,7 @@
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089741153592684584/IMG_0382.jpg",
             "HeaderImage": null,
             "Category": null,
-            "Caption": "[Currently unavailable]",
+            "Caption": "Hide battery widget text",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
             ],
@@ -408,12 +378,11 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.Kumiki.NoBatteryWidgetTexttest"
+            "PackageID": "com.Kumiki.NoBatteryWidgetText"
         },
         {
             "Name": "[TEST]NoSwipeUpToOpen",
-            "Description": "Currently unavailable.",
-            "MinIOSVersion": "16.2",
+            "Description": "Compatible with iOS15 and iOS16",
             "Author": {
                 "Label": "Kumiki & ChromiumCandy",
                 "Links": [
@@ -437,7 +406,7 @@
             },
             "Icon": "https://pbs.twimg.com/media/Fq_By3tacAAztpl?format=jpg&name=small",
             "Category": null,
-            "Caption": "[Currently unavailable]",
+            "Caption": "Remove Swipe up to open text",
             "Screenshot": null,
             "Releases": [
                 {
@@ -466,12 +435,11 @@
                     "Description": "Compatible with iOS15 and iOS16"
                 }
             ],
-            "PackageID": "com.Kumiki.NoSwipeUpToOpentest"
+            "PackageID": "com.Kumiki.NoSwipeUpToOpenfix"
         },
         {
             "Name": "[TEST]14DND",
-            "Description": "Currently unavailable.",
-            "MinIOSVersion": "16.2",
+            "Description": "Compatible with iOS15 and iOS16",
             "Author": {
                 "Label": "Kumiki & ChromiumCandy",
                 "Links": [
@@ -487,7 +455,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1082837444858237058/IMG_1928.png",
             "Category": null,
-            "Caption": "[Currently unavailable]",
+            "Caption": "The new DND module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/1079074514257838130/1082822841172504646/IMG_1928.png",
                 "https://cdn.discordapp.com/attachments/1079074514257838130/1082635887420121088/PNG.png"
@@ -529,12 +497,11 @@
                     "Description": "Compatible with iOS15 and iOS16"
                 }
             ],
-            "PackageID": "com.ChromiumCandy.14DNDtest"
+            "PackageID": "com.ChromiumCandy.14DNDfix"
         },
         {
             "Name": "[TEST]Font Clock Group 1",
-            "Description": "Currently unavailable.",
-            "MinIOSVersion": "16.2",
+            "Description": "Compatible with iOS15 and iOS16",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
@@ -551,7 +518,7 @@
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "Font",
-            "Caption": "[Currently unavailable]",
+            "Caption": "Change clock font",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
             ],
@@ -567,7 +534,36 @@
                 "Description": "Compatible with iOS15 and iOS16"
             }
             ],
-            "PackageID": "com.yangjiii.fontclock15.1.0test"
+            "PackageID": "com.yangjiii.fontclock15.1.0fix"
+        },
+        {
+            "Name": "[TEST]おにまいLock",
+            "Description": "Currently unavailable.",
+            "MinIOSVersion": "16.2",
+            "Author": {
+                "Label": "Kumiki",
+                "Links": [
+                    {
+                        "Label": "Kumiki",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
+            "HeaderImage": null,
+            "Category": null,
+            "Caption": "[Currently unavailable]",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1090183822705971200/onimailock.mp4"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090177834359734282/onimailock.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.Kumiki.LockOnimai"
         }
     ]
 }
