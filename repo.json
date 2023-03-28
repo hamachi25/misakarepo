@@ -347,6 +347,7 @@
         {
             "Name": "[TEST]NoBatteryWidgetText",
             "Description": "Currently unavailable.",
+            "MinIOSVersion": "16.2",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
@@ -367,7 +368,7 @@
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089741153592684584/IMG_0382.jpg",
             "HeaderImage": null,
             "Category": null,
-            "Caption": "[Currently unavailable]Compatible with iOS15 and iOS16",
+            "Caption": "[Currently unavailable]",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
             ],
@@ -383,6 +384,7 @@
         {
             "Name": "[TEST]NoSwipeUpToOpen",
             "Description": "Currently unavailable.",
+            "MinIOSVersion": "16.2",
             "Author": {
                 "Label": "Kumiki & ChromiumCandy",
                 "Links": [
@@ -406,7 +408,7 @@
             },
             "Icon": "https://pbs.twimg.com/media/Fq_By3tacAAztpl?format=jpg&name=small",
             "Category": null,
-            "Caption": "[Currently unavailable]Remove Swipe up to open text",
+            "Caption": "[Currently unavailable]",
             "Screenshot": null,
             "Releases": [
                 {
@@ -440,6 +442,7 @@
         {
             "Name": "[TEST]14DND",
             "Description": "Currently unavailable.",
+            "MinIOSVersion": "16.2",
             "Author": {
                 "Label": "Kumiki & ChromiumCandy",
                 "Links": [
@@ -455,7 +458,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1082837444858237058/IMG_1928.png",
             "Category": null,
-            "Caption": "[Currently unavailable]The new DND module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
+            "Caption": "[Currently unavailable]",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/1079074514257838130/1082822841172504646/IMG_1928.png",
                 "https://cdn.discordapp.com/attachments/1079074514257838130/1082635887420121088/PNG.png"
@@ -502,6 +505,7 @@
         {
             "Name": "[TEST]Font Clock Group 1",
             "Description": "Currently unavailable.",
+            "MinIOSVersion": "16.2",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
@@ -518,7 +522,7 @@
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "Font",
-            "Caption": "[Currently unavailable]Change clock font on ios 15",
+            "Caption": "[Currently unavailable]",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
             ],
