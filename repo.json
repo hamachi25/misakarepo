@@ -82,6 +82,34 @@
             "PackageID": "com.Kumiki.ClockNormal"
         },
         {
+            "Name": "おにまいLock",
+            "Description": "Onimai",
+            "Author": {
+                "Label": "Kumiki",
+                "Links": [
+                    {
+                        "Label": "Kumiki",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
+            "HeaderImage": null,
+            "Category": null,
+            "Caption": "Tweak Settingsからフォルダーを選択する必要があります。どれを選べばよいかわからない場合は、1つずつ試して上手くいくものを選択してください。\nYou will need to select a folder from Tweak Settings. If you are not sure which one to choose, try one at a time and select the one that works.",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1090183822705971200/onimailock.mp4"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090177834359734282/onimailock.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.Kumiki.LockOnimai"
+        },
+        {
             "Name": "[FIX]LS UI YangJiii",
             "Description": "Currently unavailable.",
             "Author": {
