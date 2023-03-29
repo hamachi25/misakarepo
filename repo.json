@@ -268,7 +268,7 @@
         },
         {
             "Name": "[FIX]ElementTorch",
-            "Description": "Change Torch icon to Genshin elements",
+            "Description": "Support @2x",
             "Author": {
                 "Label": "34306",
                 "Links": [
@@ -305,7 +305,7 @@
         },
         {
             "Name": "[FIX]Mihari clock (Homescreen)",
-            "Description": "Mahiro-chan does not like it",
+            "Description": "Reduce file size",
             "Author": {
                 "Label": "34306",
                 "Links": [
@@ -342,7 +342,7 @@
         },
         {
             "Name": "[FIX]LS UI iOS15",
-            "Description": "iOS 15 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15系统设备使用。",
+            "Description": "Reduce file size",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -380,7 +380,7 @@
         },
         {
             "Name": "[FIX]6G&9G",
-            "Description": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
+            "Description": "Delete unnecessary parts of plist files",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -418,7 +418,7 @@
         },
         {
             "Name": "[FIX]No Older Notifications",
-            "Description": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
+            "Description": "Delete unnecessary parts of plist files",
             "MaxIOSVersion": "15.7.1",
             "Author": {
                 "Label": "coolwcat",
@@ -438,8 +438,8 @@
             "Category": "Cellular",
             "Caption": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
             "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/nooldernotifications-1.png",   
-                "https://github.com/huligang/coolwcat/raw/main/images/Screenshot/nooldernotifications-2.png"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-2.png"
             ],
 			"Releases": [
               {
