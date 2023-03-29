@@ -6,9 +6,42 @@
     "RepositoryWebsite": null,
     "DefaultHeaderImage": null,
     "RepositoryContents": [
-       {
+        {
+            "Name": "おにまいLock",
+            "Description": "OnimaiLock",
+            "Author": {
+                "Label": "Kumiki",
+                "Links": [
+                    {
+                        "Label": "Kumiki",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    } 
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
+            "HeaderImage": null,
+            "Category": null,
+            "Caption": "お兄ちゃんはおしまい！",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1090183822705971200/onimailock.mp4"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090177834359734282/onimailock.misaka",
+                    "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090494747241619536/onimailock.misaka",
+                    "Description": "%Optional%"
+                }
+            ],
+            "PackageID": "com.Kumiki.LockOnimai"
+        },
+        {
             "Name": "おにまい時計",
-            "Description": "Onimai",
+            "Description": "OnimaiClock",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
@@ -82,8 +115,49 @@
             "PackageID": "com.Kumiki.ClockNormal"
         },
         {
+            "Name": "[FIX]NoNameBatteryWidget",
+            "Description": "Compatible with iOS15 and iOS16",
+            "Author": {
+                "Label": "haxi0",
+                "Links": [
+                    {
+                        "Label": "haxi0 (Main Dev)",
+                        "Link": "https://twitter.com/haxi0sm"
+                    },
+                    {
+                        "Label": "34306 (Path)",
+                        "Link": "https://twitter.com/Little_34306"
+                    },
+                    {
+                        "Label": "Kumiki (Support iOS15)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://haxi0sm.tk/misaka/NoNameBatteryWidget.png",
+            "HeaderImage": null,
+            "Category": null,
+            "Caption": "Delete your battery's widget name!",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://haxi0sm.tk/misaka/NoNameBatteryWidget.misaka",
+                    "Description": null
+                },        
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089602916102455417/NoBatteryWidget.misaka",
+                    "Description": "Compatible with iOS15 and iOS16"
+                }
+            ],
+            "PackageID": "org.haxi0.NoNameBatteryWidgetfix"
+        },
+        {
             "Name": "[FIX]LS UI YangJiii",
-            "Description": "Currently unavailable.",
+            "Description": "Compatible with iOS15 and iOS16",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
@@ -112,11 +186,48 @@
               },
               {
                 "Version": "1.1",
-                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089859033076350976/LSyangjiii.misaka",
-                "Description": "Responding to specification changes"
-            }
+                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090509204328026212/com.yangjiii.yangjiuilsfix.misaka",
+                "Description": "Compatible with iOS15 and iOS16"
+              }
             ],
             "PackageID": "com.yangjiii.yangjiuilsfix"
+        },
+        {
+            "Name": "[FIX]Font Clock Group 1",
+            "Description": "Compatible with iOS15 and iOS16",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+                    {
+                        "Label": "Kumiki",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "Category": "Font",
+            "Caption": "Change clock font",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15.1.0.misaka",
+                  "Description": "Change clock font on ios 15"
+              },
+              {
+                "Version": "1.1",
+                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089759125690396763/com.yangjiii.fontclock15.1.0.misaka",
+                "Description": "Compatible with iOS15 and iOS16"
+            }
+            ],
+            "PackageID": "com.yangjiii.fontclock15.1.0fix"
         },
         {
             "Name": "[FIX]Torch&Camera",
@@ -345,44 +456,8 @@
             "PackageID": "com.coolwcat.nooldernotificationsfix"
         },
         {
-            "Name": "NoBatteryWidgetText",
-            "Description": "Compatible with iOS15 and iOS16",
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    },
-                    {
-                        "Label": "34306",
-                        "Link": "https://twitter.com/Little_34306"
-                    },
-                    {
-                        "Label": "haxi0",
-                        "Link": "https://twitter.com/haxi0sm"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089741153592684584/IMG_0382.jpg",
-            "HeaderImage": null,
-            "Category": null,
-            "Caption": "Hide battery widget text",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089602916102455417/NoBatteryWidget.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.Kumiki.NoBatteryWidgetText"
-        },
-        {
             "Name": "[TEST]14DND",
-            "Description": "Compatible with iOS15 and iOS16",
+            "Description": "Currently not available on iOS16",
             "Author": {
                 "Label": "Kumiki & ChromiumCandy",
                 "Links": [
@@ -441,72 +516,6 @@
                 }
             ],
             "PackageID": "com.ChromiumCandy.14DNDfix"
-        },
-        {
-            "Name": "[TEST]Font Clock Group 1",
-            "Description": "Compatible with iOS15 and iOS16",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    },
-                    {
-                        "Label": "Kumiki",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "Font",
-            "Caption": "Change clock font",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15.1.0.misaka",
-                  "Description": "Change clock font on ios 15"
-              },
-              {
-                "Version": "1.1",
-                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089759125690396763/com.yangjiii.fontclock15.1.0.misaka",
-                "Description": "Compatible with iOS15 and iOS16"
-            }
-            ],
-            "PackageID": "com.yangjiii.fontclock15.1.0fix"
-        },
-        {
-            "Name": "[TEST]おにまいLock",
-            "Description": "Currently unavailable.",
-            "MinIOSVersion": "99.9",
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
-            "HeaderImage": null,
-            "Category": null,
-            "Caption": "[Currently unavailable]",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1090183822705971200/onimailock.mp4"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090177834359734282/onimailock.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.Kumiki.LockOnimai"
         }
     ]
 }
