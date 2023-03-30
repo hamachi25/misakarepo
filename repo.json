@@ -64,7 +64,9 @@
             "HeaderImage": null,
             "Category": null,
             "Caption": null,
-            "Screenshot": null,
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1091079371344859207/eafef.jpg"
+            ],
             "Releases": [
                 {
                     "Version": "1.0",
