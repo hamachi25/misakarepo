@@ -266,7 +266,7 @@
         },
         {
             "Name": "[FIX]Torch&Camera",
-            "Description": "Change Torch and Camera icon to checkra1n and Snowflake icon",
+            "Description": "Support @2x",
             "Author": {
                 "Label": "34306",
                 "Links": [
@@ -340,7 +340,7 @@
         },
         {
             "Name": "[FIX]Mihari clock (Homescreen)",
-            "Description": "Reduce file size",
+            "Description": "File size issue fixed",
             "Author": {
                 "Label": "34306",
                 "Links": [
@@ -377,7 +377,7 @@
         },
         {
             "Name": "[FIX]LS UI iOS15",
-            "Description": "Reduce file size",
+            "Description": "File size issue fixed",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -415,7 +415,7 @@
         },
         {
             "Name": "[FIX]6G&9G",
-            "Description": "Delete unnecessary parts of plist files",
+            "Description": "Multilingual support",
             "Author": {
                 "Label": "coolwcat",
                 "Links": [
@@ -453,7 +453,7 @@
         },
         {
             "Name": "[FIX]No Older Notifications",
-            "Description": "Delete unnecessary parts of plist files",
+            "Description": "Multilingual support",
             "MaxIOSVersion": "15.7.1",
             "Author": {
                 "Label": "coolwcat",
