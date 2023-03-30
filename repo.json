@@ -45,6 +45,36 @@
             "PackageID": "com.Kumiki.LockOnimai"
         },
         {
+            "Name": "AppleEvent Lock",
+            "Description": "TrollLock",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+                    {
+                        "Label": "Kumiki (.misaka porting)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091071310412648568/eghah.png",
+            "HeaderImage": null,
+            "Category": null,
+            "Caption": null,
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091071309921923132/com.yangjiii.LockAppleEvent.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.yangjiii.LockAppleEvent"
+        },
+        {
             "Name": "おにまい時計",
             "Description": "OnimaiClock",
             "Author": {
@@ -76,7 +106,7 @@
                 {
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089166995527835668/com.Kumiki.ClockOnimai.misaka",
-                    "Description": "Reduce file size"
+                    "Description": "File size issue fixed"
                 },
                 {
                     "Version": "1.2",
@@ -340,7 +370,7 @@
                 {
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1088763508973371503/com.34306.mhrclock.misaka",
-                    "Description": "Reduce file size"
+                    "Description": "File size issue fixed"
                 }
             ],
             "PackageID": "com.34306.mhrclockfix"
@@ -378,7 +408,7 @@
               {
                 "Version": "1.1",
                 "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089192913851912222/com.coolwcat.lsui15.misaka",
-                "Description": "Reduce file size"
+                "Description": "File size issue fixed"
               }
             ],
             "PackageID": "com.coolwcat.lsui15fix"
