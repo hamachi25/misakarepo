@@ -159,29 +159,26 @@
             "PackageID": "com.Kumiki.ClockNormal"
         },
         {
-            "Name": "[FIX]NoNameBatteryWidget",
-            "Description": "Compatible with iOS15 and iOS16",
+            "Name": "NoNameBatteryWidget",
+            "Description": "iOS15",
+            "MaxIOSVersion": "15.7.1",
             "Author": {
-                "Label": "haxi0",
+                "Label": "Kumiki",
                 "Links": [
                     {
-                        "Label": "haxi0 (Main Dev)",
-                        "Link": "https://twitter.com/haxi0sm"
+                        "Label": "Kumiki",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     },
                     {
                         "Label": "34306 (Path)",
                         "Link": "https://twitter.com/Little_34306"
-                    },
-                    {
-                        "Label": "Kumiki (Support iOS15)",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
                     }
                 ]
             },
             "Icon": "https://haxi0sm.tk/misaka/NoNameBatteryWidget.png",
             "HeaderImage": null,
             "Category": null,
-            "Caption": "Delete your battery's widget name!",
+            "Caption": "Remove text from battery widget",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
             ],
@@ -195,9 +192,14 @@
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089602916102455417/NoBatteryWidget.misaka",
                     "Description": "Compatible with iOS15 and iOS16"
+                },        
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091342960412610682/com.Kumiki.NoNameBatteryWidget.misaka",
+                    "Description": "Only iOS15"
                 }
             ],
-            "PackageID": "org.haxi0.NoNameBatteryWidgetfix"
+            "PackageID": "com.Kumiki.NoNameBatteryWidget"
         },
         {
             "Name": "[FIX]LS UI YangJiii",
@@ -501,7 +503,7 @@
         },
         {
             "Name": "[TEST]14DND",
-            "Description": "Currently not available on iOS16",
+            "Description": "Not Available",
             "Author": {
                 "Label": "Kumiki & ChromiumCandy",
                 "Links": [
@@ -517,7 +519,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1082837444858237058/IMG_1928.png",
             "Category": null,
-            "Caption": "The new DND module is taking up too much space. Then, you know, let's just go with the good old iOS14 style.",
+            "Caption": null,
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/1079074514257838130/1082822841172504646/IMG_1928.png",
                 "https://cdn.discordapp.com/attachments/1079074514257838130/1082635887420121088/PNG.png"
