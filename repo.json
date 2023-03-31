@@ -9,6 +9,8 @@
         {
             "Name": "おにまいLock",
             "Description": "OnimaiLock",
+            "MinIOSVersion": null,
+            "MaxIOSVersion": null,
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
