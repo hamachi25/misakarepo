@@ -505,6 +505,7 @@
         {
             "Name": "[TEST]14DND",
             "Description": "Not Available",
+            "MinIOSVersion": "99.9",
             "Author": {
                 "Label": "Kumiki & ChromiumCandy",
                 "Links": [
