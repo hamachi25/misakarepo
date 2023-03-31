@@ -39,7 +39,12 @@
                 {
                     "Version": "1.2",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091061708983914567/com.Kumiki.LockOnimai.misaka",
-                    "Description": "Reduce file size"
+                    "Description": "File size issue fixed"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091195046105198643/com.Kumiki.LockOnimai.misaka",
+                    "Description": "main.caml fixed"
                 }
             ],
             "PackageID": "com.Kumiki.LockOnimai"
