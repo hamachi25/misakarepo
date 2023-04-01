@@ -499,69 +499,6 @@
               }
             ],
             "PackageID": "com.coolwcat.nooldernotificationsfix"
-        },
-        {
-            "Name": "[TEST]14DND",
-            "Description": "Not Available",
-            "MinIOSVersion": "99.9",
-            "Author": {
-                "Label": "Kumiki & ChromiumCandy",
-                "Links": [
-                    {
-                        "Label": "ChromiumCandy (Main Dev)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    },
-                    {
-                        "Label": "Kumiki (Path,Testing,Bug fixes)",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1082837444858237058/IMG_1928.png",
-            "Category": null,
-            "Caption": null,
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/1079074514257838130/1082822841172504646/IMG_1928.png",
-                "https://cdn.discordapp.com/attachments/1079074514257838130/1082635887420121088/PNG.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082291723155296318/iOS14styleDnDmodule.vdf",
-                    "Description": "First relaese by ChromiumCandy"
-                },
-                {
-                    "Version": "0.2",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082630156377673769/iOS14styleDnDmodule.vdf",
-                    "Description": "Network module bug fix by Kumiki"
-                },
-                {
-                    "Version": "0.3",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1082635886585462814/iOS14styleDnDmodule.vdf",
-                    "Description": "Also hide the text when toggle is on.\nnote : this also hide the texts when you log pressed it, so if you don't like this, downgrade it to v0.2"
-                },
-                {
-                    "Version": "0.4",
-                    "Package": "https://cdn.discordapp.com/attachments/813615730473304064/1083226460849983628/14DND.vdf",
-                    "Description": "Bug fix"
-                },
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1086869589448720464/com.ChromiumCandy.14DND.misaka",
-                    "Description": ".vdf to .misaka"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1088766675064725504/com.ChromiumCandy.14DND.misaka",
-                    "Description": "bug fix by Kumiki"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090353491882541166/com.ChromiumCandy.14DNDfix.misaka",
-                    "Description": "Compatible with iOS15 and iOS16"
-                }
-            ],
-            "PackageID": "com.ChromiumCandy.14DNDfix"
         }
     ]
 }
