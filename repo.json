@@ -160,8 +160,7 @@
         },
         {
             "Name": "NoNameBatteryWidget",
-            "Description": "iOS15",
-            "MaxIOSVersion": "15.7.1",
+            "Description": "iOS15 & iOS16",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
