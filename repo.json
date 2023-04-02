@@ -205,43 +205,6 @@
             "PackageID": "com.Kumiki.NoNameBatteryWidget"
         },
         {
-            "Name": "[FIX]LS UI YangJiii",
-            "Description": "Compatible with iOS15 and iOS16",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    },
-                    {
-                        "Label": "Kumiki (FIX)",
-                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/uilsyangjiii.jpg",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "LS UI",
-            "Caption": "Change camera and flash icon",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuiyangjiii1.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
-                  "Description": "Change camera and flash icon"
-              },
-              {
-                "Version": "1.1",
-                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090509204328026212/com.yangjiii.yangjiuilsfix.misaka",
-                "Description": "Compatible with iOS15 and iOS16"
-              }
-            ],
-            "PackageID": "com.yangjiii.yangjiuilsfix"
-        },
-        {
             "Name": "[FIX]Font Clock Group 1",
             "Description": "Compatible with iOS15 and iOS16",
             "Author": {
