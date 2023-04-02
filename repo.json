@@ -52,6 +52,11 @@
                     "Version": "1.4",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091661572025368616/com.Kumiki.LockOnimai.misaka",
                     "Description": "File name fixed"
+                },
+                {
+                    "Version": "1.5",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092132582046576780/com.Kumiki.LockOnimai.misaka",
+                    "Description": "Change path"
                 }
             ],
             "PackageID": "com.Kumiki.LockOnimai"
@@ -84,9 +89,44 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091071309921923132/com.yangjiii.LockAppleEvent.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092135038960808007/com.Kumiki.LockAppleEvent.misaka",
+                    "Description": "Change path"
                 }
             ],
-            "PackageID": "com.yangjiii.LockAppleEvent"
+            "PackageID": "com.Kumiki.LockAppleEvent"
+        },
+        {
+            "Name": "Hello Lock",
+            "Description": "TrollLock",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+                    {
+                        "Label": "Kumiki (.misaka porting)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1092136176632209419/LockHello.jpg",
+            "HeaderImage": null,
+            "Category": null,
+            "Caption": null,
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092136993372254351/HelloLock.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.Kumiki.LockHello"
         },
         {
             "Name": "おにまい時計",
@@ -162,6 +202,35 @@
                 }
             ],
             "PackageID": "com.Kumiki.ClockNormal"
+        },
+        {
+            "Name": "HideCC",
+            "Description": "Hide FocusUI and Mirroring",
+            "Author": {
+                "Label": "Kumiki",
+                "Links": [
+                    {
+                        "Label": "Kumiki",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": null,
+            "HeaderImage": null,
+            "Category": null,
+            "Caption": "集中モードとミラーリングを削除します。",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1092137919952728127/IMG_0440.jpg",
+                "https://cdn.discordapp.com/attachments/957426517107949612/1092137920154050650/IMG_0441.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092137919646548118/HideCC.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.Kumiki.HideCC"
         },
         {
             "Name": "NoNameBatteryWidget",
