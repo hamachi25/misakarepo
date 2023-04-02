@@ -206,6 +206,7 @@
         {
             "Name": "HideCC",
             "Description": "Hide FocusUI and Mirroring",
+            "MaxIOSVersion": "15.7.1",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
