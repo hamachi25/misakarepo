@@ -117,13 +117,18 @@
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1092136176632209419/LockHello.jpg",
             "HeaderImage": null,
             "Category": null,
-            "Caption": null,
+            "Caption": "Normal,White,Black",
             "Screenshot": null,
             "Releases": [
                 {
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092136993372254351/HelloLock.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "2.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092769440476692591/com.Kumiki.LockHello.misaka",
+                    "Description": "Add another color hello"
                 }
             ],
             "PackageID": "com.Kumiki.LockHello"
