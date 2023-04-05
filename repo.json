@@ -542,6 +542,51 @@
               }
             ],
             "PackageID": "com.coolwcat.nooldernotificationsfix"
+        },
+        {
+            "Name": "[FIX]CCiPod",
+            "Description": "Added support for ipad and 14DND",
+            "Author": {
+                "Label": "Fomri",
+                "Links": [
+                    {
+                        "Label": "Fomri",
+                        "Link": "https://twitter.com/coolwcat"
+                    },
+                    {
+                        "Label": "Kumiki (FIX)",
+                        "Link": null
+                    },
+                    {
+                        "Label": "ChromiumCandy (14DND Dev)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "fall20c (iOS16 Support)",
+                        "Link": "https://twitter.com/fall20c"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/Fomri/fomrirepo/raw/main/output-onlinepngtools-4.png",
+            "HeaderImage": "https://github.com/Fomri/fomrirepo/raw/main/FomriBG.png",
+            "Category": "CC Stuff",
+            "Caption": "Missing the old iconic iPod Nano? Get little one now on your Control Center!",
+            "Screenshot": [
+                "https://github.com/Fomri/fomrirepo/raw/main/IMG_2086.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/CCiPod.misaka",
+                  "Description": "initial release"
+              },
+              {
+                "Version": "1.1",
+                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093063955716513792/com.fomri.CCiPod.misaka",
+                "Description": "Support ipad, Add 14DND"
+              }
+            ],
+            "PackageID": "com.fomri.CCiPodfix"
         }
     ]
 }
