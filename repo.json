@@ -545,7 +545,7 @@
         },
         {
             "Name": "[FIX]CCiPod",
-            "Description": "Aupport for ipad, Add 14DND",
+            "Description": "Support ipad, Add 14DND",
             "Author": {
                 "Label": "Fomri",
                 "Links": [
