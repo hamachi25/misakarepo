@@ -545,7 +545,7 @@
         },
         {
             "Name": "[FIX]CCiPod",
-            "Description": "Added support for ipad and 14DND",
+            "Description": "Aupport for ipad, Add 14DND",
             "Author": {
                 "Label": "Fomri",
                 "Links": [
@@ -590,7 +590,7 @@
         },
         {
             "Name": "[FIX]Gradient Passcode & Phone",
-            "Description": "Add %Misaka_Resize%, File size issue fixed",
+            "Description": "Add %Misaka_Resize%, Reduce File size",
             "Author": {
                 "Label": "EPOS & Z3ROS1X",
                 "Links": [
@@ -629,7 +629,7 @@
               {
                   "Version": "1.2",
                   "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093520011777282068/com.epos.gradient.misaka",
-                  "Description": "Add %Misaka_Resize%, File size issue fixed"
+                  "Description": "Add %Misaka_Resize%, Reduce File size"
               }
             ],
             "PackageID": "com.epos.gradientfix"
