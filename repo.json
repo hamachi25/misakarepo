@@ -317,6 +317,43 @@
             "PackageID": "com.yangjiii.fontclock15.1.0fix"
         },
         {
+            "Name": "[FIX]Usagi Passcode",
+            "Description": "Add Misaka_Resize, Reduce File size",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+                    {
+                        "Label": "Kumiki (FIX)",
+                        "Link": null
+                    }
+                ]
+            },
+            "Icon": "https://i.kym-cdn.com/photos/images/original/002/083/322/038.gif",
+            "HeaderImage": "https://i.pinimg.com/originals/5a/b0/67/5ab06768b12e2a87a6264bd385ed5dd3.gif",
+            "Category": "Theme",
+            "Caption": "Change your passcode",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/1076484358774472777/1076484359676243968/IMG_0808.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.usagipasscode.misaka",
+                  "Description": "Change your passcode"
+              },
+              {
+                "Version": "1.1",
+                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093529746169667715/com.yangjiii.usagipasscode.misaka",
+                "Description": "Add Misaka_Resize, Reduce File size"
+              }
+            ],
+            "PackageID": "com.yangjiii.usagipasscodefix"
+        },
+        {
             "Name": "[FIX]Torch&Camera",
             "Description": "Support @2x",
             "Author": {
@@ -590,7 +627,7 @@
         },
         {
             "Name": "[FIX]Gradient Passcode & Phone",
-            "Description": "Add %Misaka_Resize%, Reduce File size",
+            "Description": "Add Misaka_Resize, Reduce File size",
             "Author": {
                 "Label": "EPOS & Z3ROS1X",
                 "Links": [
@@ -629,7 +666,7 @@
               {
                   "Version": "1.2",
                   "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093520011777282068/com.epos.gradient.misaka",
-                  "Description": "Add %Misaka_Resize%, Reduce File size"
+                  "Description": "Add Misaka_Resize, Reduce File size"
               }
             ],
             "PackageID": "com.epos.gradientfix"
