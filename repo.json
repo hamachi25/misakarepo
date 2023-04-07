@@ -70,10 +70,6 @@
                     {
                         "Label": "YangJiii",
                         "Link": "https://twitter.com/duongduong0908"
-                    },
-                    {
-                        "Label": "Kumiki (.misaka porting)",
-                        "Link": null
                     }
                 ]
             },
@@ -107,10 +103,6 @@
                     {
                         "Label": "YangJiii",
                         "Link": "https://twitter.com/duongduong0908"
-                    },
-                    {
-                        "Label": "Kumiki (.misaka porting)",
-                        "Link": null
                     }
                 ]
             },
@@ -344,6 +336,39 @@
               }
             ],
             "PackageID": "com.yangjiii.usagipasscodefix"
+        },
+        {
+            "Name": "[Fix]Big Sur Clock Icon",
+            "Description": "File size issue fixed",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Icon",
+            "Caption": "Change your clock icon",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/clockiconbigsur.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.bigsurclockicon.misaka",
+                  "Description": "Change your clock icon"
+              },
+              {
+                "Version": "1.0",
+                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093906854809178162/com.yangjiii.bigsurclockicon.misaka",
+                "Description": "File size issue fixed"
+              }
+            ],
+            "PackageID": "com.yangjiii.bigsurclockiconfix"
         },
         {
             "Name": "[FIX]Torch&Camera",
