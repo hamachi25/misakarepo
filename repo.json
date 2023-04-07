@@ -280,39 +280,6 @@
             "PackageID": "com.Kumiki.NoNameBatteryWidget"
         },
         {
-            "Name": "[FIX]EmojiSwap",
-            "Description": "Change emoji",
-            "Author": {
-                "Label": "ChromiumCandy",
-                "Links": [
-                    {
-                        "Label": "ChromiumCandy",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/813615730473304064/1088268749850820778/9A2B01E5-E0C0-4BED-B733-0F976B702799.jpg",
-            "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1088268144407236618/1C66B9D1-D9D6-49DD-834C-A6F1BA9D23A1.jpg",
-            "Category": "Custom Emoji",
-            "Caption": "Change whole system emoji to Twemoji, Blobmoji, and NotoColorEmoji!\nmade based on Twemoji, Blobmoji, NotoColourEmoji on my repo.",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/813615730473304064/1088273101332164680/IMG_3270.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://drive.google.com/uc?export=download&id=16ehna0x-MdDlz-6yPGfrndMU2Ms3tYp6",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://github.com/chimaha/misakarepo/releases/download/release/EmojiSwap.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "jp.ChromiumCandy.EmojiSwapfix"
-        },
-        {
             "Name": "[FIX]Font Clock Group 1",
             "Description": "Compatible with iOS15 and iOS16",
             "Author": {
@@ -321,10 +288,6 @@
                     {
                         "Label": "YangJiii",
                         "Link": "https://twitter.com/duongduong0908"
-                    },
-                    {
-                        "Label": "Kumiki (FIX)",
-                        "Link": null
                     }
                 ]
             },
@@ -358,10 +321,6 @@
                     {
                         "Label": "YangJiii",
                         "Link": "https://twitter.com/duongduong0908"
-                    },
-                    {
-                        "Label": "Kumiki (FIX)",
-                        "Link": null
                     }
                 ]
             },
@@ -390,15 +349,11 @@
             "Name": "[FIX]Torch&Camera",
             "Description": "Support @2x",
             "Author": {
-                "Label": "34306",
+                "Label": "Huy Nguyen",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
-                    },
-                    {
-                        "Label": "Kumiki (FIX)",
-                        "Link": null
                     }
                 ]
             },
@@ -419,23 +374,24 @@
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089143088963911771/com.34306.tnc.misaka",
                     "Description": "Support @2x"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093816406992224266/com.hn.tnc.misaka",
+                    "Description": "Add icon when charging"
                 }
             ],
-            "PackageID": "com.34306.tncfix"
+            "PackageID": "com.hn.tncfix"
         },
         {
             "Name": "[FIX]ElementTorch",
             "Description": "Support @2x",
             "Author": {
-                "Label": "34306",
+                "Label": "Huy Nguyen",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
-                    },
-                    {
-                        "Label": "Kumiki (FIX)",
-                        "Link": null
                     }
                 ]
             },
@@ -456,9 +412,14 @@
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089857801398009986/com.34306.gstorch.misaka",
                     "Description": "Support @2x"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093813623559831552/com.hn.gstorch.misaka",
+                    "Description": "Add icon when charging"
                 }
             ],
-            "PackageID": "com.34306.gstorch"
+            "PackageID": "com.hn.gstorchfix"
         },
         {
             "Name": "[FIX]Mihari clock (Homescreen)",
@@ -498,31 +459,27 @@
             "PackageID": "com.34306.mhrclockfix"
         },
         {
-            "Name": "[FIX]LS UI iOS15",
+            "Name": "LS UI",
             "Description": "File size issue fixed",
             "Author": {
-                "Label": "coolwcat",
+                "Label": "Coolwcat",
                 "Links": [
                     {
-                        "Label": "coolwcat",
+                        "Label": "Coolwcat",
                         "Link": "https://twitter.com/coolwcat"
-                    },
-                    {
-                        "Label": "Kumiki (FIX)",
-                        "Link": null
                     }
                 ]
             },
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
-            "Category": "LS UI",
-            "Caption": "iOS 15 Change camera and flash icon 修改锁屏相机和手电筒按钮，适用于iOS15系统设备使用。",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png"
-            ],
-			"Releases": [
-              {
+            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+             "Category": "LS UI",
+             "Caption": "iOS 15&16 Change camera and flash icon \n修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
+             "Screenshot": [
+                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png",
+                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png"
+             ],
+             "Releases": [
+               {
                   "Version": "1.0",
                   "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.lsuiios15.misaka",
                   "Description": null
@@ -531,6 +488,11 @@
                 "Version": "1.1",
                 "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089192913851912222/com.coolwcat.lsui15.misaka",
                 "Description": "File size issue fixed"
+              },
+              {
+                "Version": "1.2",
+                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093810374920376380/com.coolwcat.lsui15.misaka",
+                "Description": "Add icon when charging"
               }
             ],
             "PackageID": "com.coolwcat.lsui15fix"
@@ -545,10 +507,6 @@
                     {
                         "Label": "coolwcat",
                         "Link": "https://twitter.com/coolwcat"
-                    },
-                    {
-                        "Label": "Kumiki (FIX)",
-                        "Link": null
                     }
                 ]
             },
@@ -584,10 +542,6 @@
                     {
                         "Label": "coolwcat",
                         "Link": "https://twitter.com/coolwcat"
-                    },
-                    {
-                        "Label": "Kumiki (FIX)",
-                        "Link": null
                     }
                 ]
             },
@@ -614,95 +568,36 @@
             "PackageID": "com.coolwcat.nooldernotificationsfix"
         },
         {
-            "Name": "[FIX]CCiPod",
-            "Description": "Support ipad, Add 14DND",
+            "Name": "[FIX]LS PokeButton",
+            "Description": "Pokemon on LS!",
             "Author": {
-                "Label": "Fomri",
+                "Label": "Sugiuta",
                 "Links": [
                     {
-                        "Label": "Fomri",
-                        "Link": "https://twitter.com/coolwcat"
-                    },
-                    {
-                        "Label": "Kumiki (FIX)",
-                        "Link": null
-                    },
-                    {
-                        "Label": "ChromiumCandy (14DND Dev)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    },
-                    {
-                        "Label": "fall20c (iOS16 Support)",
-                        "Link": "https://twitter.com/fall20c"
+                        "Label": "Sugiuta (Original project)",
+                        "Link": "https://twitter.com/FeAr_sugi"
                     }
                 ]
             },
-            "Icon": "https://github.com/Fomri/fomrirepo/raw/main/output-onlinepngtools-4.png",
-            "HeaderImage": "https://github.com/Fomri/fomrirepo/raw/main/FomriBG.png",
-            "Category": "CC Stuff",
-            "Caption": "Missing the old iconic iPod Nano? Get little one now on your Control Center!",
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1093805313905393695/OrbFlashlightOff.jpg",
+            "Category": null,
+            "Caption": null,
             "Screenshot": [
-                "https://github.com/Fomri/fomrirepo/raw/main/IMG_2086.png"
+                "https://cdn.discordapp.com/attachments/957426517107949612/1093805313670529094/IMG_0517.jpg"
             ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/CCiPod.misaka",
-                  "Description": "initial release"
-              },
-              {
-                "Version": "1.1",
-                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093063955716513792/com.fomri.CCiPod.misaka",
-                "Description": "Support ipad, Add 14DND"
-              }
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1090303346226766004/com.sugiuta.lspokebutton.misaka",
+                    "Description": "Initial release"
+                },
+                {
+                    "Version": "0.2",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093802476551028787/com.sugiuta.lspokebutton.misaka",
+                    "Description": "Add icon when charging"
+                }
             ],
-            "PackageID": "com.fomri.CCiPodfix"
-        },
-        {
-            "Name": "[FIX]Gradient Passcode & Phone",
-            "Description": "Add Misaka_Resize, Reduce File size",
-            "Author": {
-                "Label": "EPOS & Z3ROS1X",
-                "Links": [
-                    {
-                        "Label": "EPOS (Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "Z3ROS1X (Designer)",
-                        "Link": "https://twitter.com/Z3ROS1X"
-                    },
-                    {
-                        "Label": "Kumiki (FIX)",
-                        "Link": null
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ico.jpg",
-            "Category": "Theme",
-            "Caption": "Change your Passcode & Phone Dialer keys to this beautiful Gradient Theme designed by ⦅ᴢᴇʀɵsɪx⦆",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss.jpg",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss2.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
-                  "Description": "initial release"
-              },
-              {
-                  "Version": "1.1",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone1.1.misaka",
-                  "Description": "Fixed phone keys light mode variant not theming"
-              },
-              {
-                  "Version": "1.2",
-                  "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093520011777282068/com.epos.gradient.misaka",
-                  "Description": "Add Misaka_Resize, Reduce File size"
-              }
-            ],
-            "PackageID": "com.epos.gradientfix"
+            "PackageID": "com.sugiuta.lspokebuttonfix"
         }
     ]
 }
