@@ -459,7 +459,7 @@
             "PackageID": "com.34306.mhrclockfix"
         },
         {
-            "Name": "LS UI",
+            "Name": "[FIX]LS UI",
             "Description": "File size issue fixed",
             "Author": {
                 "Label": "Coolwcat",
