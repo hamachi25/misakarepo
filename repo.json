@@ -13,12 +13,7 @@
             "MaxIOSVersion": null,
             "Author": {
                 "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki",
-                        "Link": null
-                    } 
-                ]
+                "Links": null
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
             "HeaderImage": null,
@@ -132,10 +127,6 @@
                 "Label": "Kumiki",
                 "Links": [
                     {
-                        "Label": "Kumiki",
-                        "Link": null
-                    },
-                    {
                         "Label": "ChromiumCandy (FIX)",
                         "Link": "https://twitter.com/ChromiumCandy"
                     }
@@ -172,12 +163,7 @@
             "Description": "Normal Clock",
             "Author": {
                 "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki",
-                        "Link": null
-                    }
-                ]
+                "Links": null
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089498384030765097/efjaiohefu.png",
             "HeaderImage": null,
@@ -206,12 +192,7 @@
             "MaxIOSVersion": "15.7.1",
             "Author": {
                 "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki",
-                        "Link": null
-                    }
-                ]
+                "Links": null
             },
             "Icon": null,
             "HeaderImage": null,
@@ -236,10 +217,6 @@
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
-                    {
-                        "Label": "Kumiki (iOS15)",
-                        "Link": null
-                    },
                     {
                         "Label": "haxi0 (iOS16)",
                         "Link": "https://twitter.com/haxi0sm"
@@ -270,6 +247,28 @@
                 }
             ],
             "PackageID": "com.Kumiki.NoNameBatteryWidget"
+        },
+        {
+            "Name": "HideSwipeUnlock",
+            "Description": null,
+            "MaxIOSVersion": "15.7.1",
+            "Author": {
+                "Label": "Kumiki",
+                "Links": null
+            },
+            "Icon": null,
+            "HeaderImage": null,
+            "Category": null,
+            "Caption": "ロック画面の「上にスワイプしてロック解除」を非表示にし、\nパスワード入力画面の「上にスワイプしてFaceID～」を「パスコードを入力」に変更",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1094920662835019836/HideSwipeUnlock.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.Kumiki.HideSwipeUnlock"
         },
         {
             "Name": "[FIX]Font Clock Group 1",
@@ -317,7 +316,7 @@
                 ]
             },
             "Icon": "https://i.kym-cdn.com/photos/images/original/002/083/322/038.gif",
-            "HeaderImage": "https://i.pinimg.com/originals/5a/b0/67/5ab06768b12e2a87a6264bd385ed5dd3.gif",
+            "HeaderImage": null,
             "Category": "Theme",
             "Caption": "Change your passcode",
             "Screenshot": [
@@ -369,6 +368,37 @@
               }
             ],
             "PackageID": "com.yangjiii.bigsurclockiconfix"
+        },
+        {
+            "Name": "[Fix]LS UI NaYan",
+            "Description": null,
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": null,
+            "Category": null,
+            "Caption": null,
+            "Screenshot": null,
+			"Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.nayanlsui.misaka",
+                    "Description": "Change camera and flash icon"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1094920663271215184/com.yangjiii.nayanlsui.misaka",
+                    "Description": "Add icon when charging"
+                }
+            ],
+            "PackageID": "com.yangjiii.nayanlsuifix"
         },
         {
             "Name": "[FIX]Torch&Camera",
@@ -450,10 +480,10 @@
             "Name": "[FIX]Mihari clock (Homescreen)",
             "Description": "File size issue fixed",
             "Author": {
-                "Label": "34306",
+                "Label": "Huy Nguyen",
                 "Links": [
                     {
-                        "Label": "34306",
+                        "Label": "Huy Nguyen",
                         "Link": "https://twitter.com/Little_34306"
                     },
                     {
@@ -573,10 +603,9 @@
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications1.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
             "Category": "Cellular",
-            "Caption": "iOS 15 No Older Notifications 去掉通知中心没有更早通知文字。",
+            "Caption": "Hide No Older Notifications and Notification Center",
             "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-2.png"
+                "https://cdn.discordapp.com/attachments/957426517107949612/1094912819582992394/noolder.jpg"
             ],
 			"Releases": [
               {
@@ -587,7 +616,12 @@
               {
                 "Version": "1.1",
                 "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089176666640752720/com.coolwcat.nooldernotifications.misaka",
-                "Description": "Delete unnecessary parts of plist files, support custom text"
+                "Description": "Delete unnecessary parts of plist files"
+              },
+              {
+                "Version": "1.2",
+                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1094908507570049024/com.coolwcat.nooldernotificationsfix.misaka",
+                "Description": "Hide Notification Center"
               }
             ],
             "PackageID": "com.coolwcat.nooldernotificationsfix"
