@@ -259,7 +259,7 @@
             "Icon": null,
             "HeaderImage": null,
             "Category": null,
-            "Caption": "ロック画面の「上にスワイプしてロック解除」を非表示にし、パスワード入力画面の「上にスワイプしてFaceID～」を「パスコードを入力」に変更",
+            "Caption": "ロック画面の「上にスワイプしてロック解除」を非表示\nパスワード入力画面の「上にスワイプしてFaceID～」を「パスコードを入力」に変更",
             "Screenshot": null,
             "Releases": [
                 {
