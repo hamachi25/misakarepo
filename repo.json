@@ -669,6 +669,44 @@
                 }
             ],
             "PackageID": "com.sugiuta.lspokebuttonfix"
+        },
+        {
+            "Name": "OneCC",
+            "Description": "toggle bug fix",
+            "Category": "UI",
+            "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://GitHub.com/hackzy01"
+                    },
+                    {
+                        "Label": "straight-tamago (fix)",
+                        "Link": "https://twitter.com/straight_tamago"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.onecc.misaka",
+                    "Description": "Special credits to YangJii who's method is used in this tweak"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1101554513090977822/Qn7CxsC.misaka",
+                    "Description": "toggle bug fix"
+                }
+            ],
+            "PackageID": "com.hackzy.oneccfix"
         }
     ]
 }
