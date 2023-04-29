@@ -671,7 +671,7 @@
             "PackageID": "com.sugiuta.lspokebuttonfix"
         },
         {
-            "Name": "OneCC",
+            "Name": "[FIX]OneCC",
             "Description": "toggle bug fix",
             "Category": "UI",
             "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
