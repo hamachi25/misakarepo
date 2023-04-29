@@ -15,7 +15,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
             "HeaderImage": null,
-            "Category": null,
+            "Category": "Lock",
             "Caption": "お兄ちゃんはおしまい！",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1091205233566290010/iorghasior.gif"
@@ -69,7 +69,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091071310412648568/eghah.png",
             "HeaderImage": null,
-            "Category": null,
+            "Category": "Lock",
             "Caption": null,
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1091206277578891324/Appleevent.gif"
@@ -103,7 +103,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1092136176632209419/LockHello.jpg",
             "HeaderImage": null,
-            "Category": null,
+            "Category": "Lock",
             "Caption": "Normal,White,Black",
             "Screenshot": null,
             "Releases": [
@@ -135,7 +135,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089499848165826560/clock_asahi.png",
             "HeaderImage": null,
-            "Category": null,
+            "Category": "Clock",
             "Caption": "あさひ、ねむ、もみじを Tweak Settingsから選択可！\nAsahi, Nemu and Momiji can be selected from Tweak Settings!",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1089499848425881621/PNG.jpg"
@@ -169,7 +169,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089498384030765097/efjaiohefu.png",
             "HeaderImage": null,
-            "Category": null,
+            "Category": "Clock",
             "Caption": null,
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1089501898731700344/PNG.jpg"
@@ -198,7 +198,7 @@
             },
             "Icon": null,
             "HeaderImage": null,
-            "Category": null,
+            "Category": "Control Center",
             "Caption": "集中モードとミラーリングを削除します。",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1092137920154050650/IMG_0441.jpg",
@@ -253,7 +253,7 @@
         },
         {
             "Name": "HideSwipeUnlock",
-            "Description": null,
+            "Description": "Only ja",
             "MaxIOSVersion": "15.7.1",
             "Author": {
                 "Label": "Kumiki",
@@ -651,7 +651,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1093805313905393695/OrbFlashlightOff.jpg",
-            "Category": null,
+            "Category": "LS UI",
             "Caption": null,
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1093805313670529094/IMG_0517.jpg"
@@ -673,7 +673,7 @@
         {
             "Name": "[FIX]OneCC",
             "Description": "toggle bug fix",
-            "Category": "UI",
+            "Category": "Control Center",
             "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
             "MaxIOSVersion": "16.1.2",
             "Author": {
