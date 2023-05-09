@@ -194,7 +194,12 @@
             "MaxIOSVersion": "15.7.1",
             "Author": {
                 "Label": "Kumiki",
-                "Links": null
+                "Links": [
+                    {
+                        "Label": "ChromiumCandy (FIX)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
             },
             "Icon": null,
             "HeaderImage": null,
@@ -209,6 +214,11 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092137919646548118/HideCC.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092137919646548118/HideCC.misaka",
+                    "Description": "Possible to choose which to turn off."
                 }
             ],
             "PackageID": "com.Kumiki.HideCC"
