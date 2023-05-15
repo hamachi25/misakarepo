@@ -279,43 +279,14 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1094920662835019836/HideSwipeUnlock.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://github.com/chimaha/misakarepo/raw/main/file/com.Kumiki.HideSwipeUnlock.misaka",
+                    "Description": "「上にスワイプしてロック解除」が消せていなかったので修正"
                 }
             ],
             "PackageID": "com.Kumiki.HideSwipeUnlock"
-        },
-        {
-            "Name": "[FIX]Font Clock Group 1",
-            "Description": "Compatible with iOS15 and iOS16",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "Font",
-            "Caption": "Change clock font",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15.1.0.misaka",
-                  "Description": "Change clock font on ios 15"
-              },
-              {
-                "Version": "1.1",
-                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089759125690396763/com.yangjiii.fontclock15.1.0.misaka",
-                "Description": "Compatible with iOS15 and iOS16"
-            }
-            ],
-            "PackageID": "com.yangjiii.fontclock15.1.0fix"
         },
         {
             "Name": "[FIX]Usagi Passcode",
