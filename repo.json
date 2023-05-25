@@ -597,8 +597,8 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1093805313905393695/OrbFlashlightOff.jpg",
-            "Category": "LS UI",
-            "Caption": "Lock Screen",
+            "Category": "Lock Screen",
+            "Caption": null,
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1093805313670529094/IMG_0517.jpg"
             ],
