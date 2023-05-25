@@ -15,7 +15,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
             "HeaderImage": null,
-            "Category": "Lock",
+            "Category": "Lock Screen",
             "Caption": "お兄ちゃんはおしまい！",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1091205233566290010/iorghasior.gif"
@@ -69,7 +69,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091071310412648568/eghah.png",
             "HeaderImage": null,
-            "Category": "Lock",
+            "Category": "Lock Screen",
             "Caption": null,
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1091206277578891324/Appleevent.gif"
@@ -103,7 +103,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1092136176632209419/LockHello.jpg",
             "HeaderImage": null,
-            "Category": "Lock",
+            "Category": "Lock Screen",
             "Caption": "Normal,White,Black",
             "Screenshot": null,
             "Releases": [
@@ -242,7 +242,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091350930018009198/hguirsheriu.jpg",
             "HeaderImage": null,
-            "Category": null,
+            "Category": "Springboard",
             "Caption": "Remove text from battery widget",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
@@ -271,7 +271,7 @@
             },
             "Icon": null,
             "HeaderImage": null,
-            "Category": null,
+            "Category": "Lock Screen",
             "Caption": "ロック画面の「上にスワイプしてロック解除」を非表示\nパスワード入力画面の「上にスワイプしてFaceID～」を「パスコードを入力」に変更",
             "Screenshot": null,
             "Releases": [
@@ -337,7 +337,7 @@
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
             "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
-            "Category": "Icon",
+            "Category": "Clock",
             "Caption": "Change your clock icon",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/clockiconbigsur.jpg"
@@ -371,7 +371,7 @@
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
             "HeaderImage": null,
-            "Category": null,
+            "Category": "Lock Screen",
             "Caption": null,
             "Screenshot": null,
 			"Releases": [
@@ -403,7 +403,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0515.jpeg",
             "HeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
-            "Category": null,
+            "Category": "Lock Screen",
             "Caption": "checkra1n bright your light",
             "Screenshot": [
                 "https://raw.githubusercontent.com/34306/iPA/main/img/torch_and_cam.PNG"
@@ -442,7 +442,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/A7569540-B7B5-4073-9D1C-6960215ED017.png",
             "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
-            "Category": null,
+            "Category": "Lock Screen",
             "Caption": "Change Torch and Camera icon to Genshin Elements\nSupport both iOS 15 and 16",
             "Screenshot": [
                 "https://raw.githubusercontent.com/34306/iPA/main/img/31C4635A-A29D-4E94-B408-2E3DC063ADA6.png"
@@ -485,7 +485,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/onimai.png",
             "HeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
-            "Category": null,
+            "Category": "Clock",
             "Caption": "Mahiro-chan does not want to become a girl, Mihari 🥺",
             "Screenshot": [
                 "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0530.jpeg"
@@ -519,7 +519,7 @@
             },
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
-             "Category": "LS UI",
+             "Category": "Lock Screen",
              "Caption": "iOS 15&16 Change camera and flash icon \n修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
              "Screenshot": [
                  "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png",
@@ -545,41 +545,6 @@
             "PackageID": "com.coolwcat.lsui15fix"
         },
         {
-            "Name": "[FIX]6G&9G",
-            "Description": "Multilingual support",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "coolwcat",
-                "Links": [
-                    {
-                        "Label": "coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/Cellular.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
-            "Category": "Cellular",
-            "Caption": "iOS 15 Change 4-5G→6-9G 修改蜂窝网络数据表示4G→6G和5G→9G适用于iOS15系统设备使用",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g.png"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.4-5g-6-9g.misaka",
-                  "Description": null
-              },
-              {
-                "Version": "1.1",
-                "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089186242647834684/com.coolwcat.4-5g-6-9g.misaka",
-                "Description": "Delete unnecessary parts of plist files"
-              }
-            ],
-            "PackageID": "com.coolwcat.4-5g-6-9gfix"
-        },
-        {
             "Name": "[FIX]No Older Notifications",
             "Description": "Multilingual support",
             "MaxIOSVersion": "15.7.1",
@@ -594,7 +559,7 @@
             },
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications1.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
-            "Category": "Cellular",
+            "Category": "Notification",
             "Caption": "Hide No Older Notifications and Notification Center",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1094912819582992394/noolder.jpg"
@@ -633,7 +598,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1093805313905393695/OrbFlashlightOff.jpg",
             "Category": "LS UI",
-            "Caption": null,
+            "Caption": "Lock Screen",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1093805313670529094/IMG_0517.jpg"
             ],
