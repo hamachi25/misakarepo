@@ -242,7 +242,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091350930018009198/hguirsheriu.jpg",
             "HeaderImage": null,
-            "Category": "Springboard",
+            "Category": "SpringBoard",
             "Caption": "Remove text from battery widget",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
@@ -303,7 +303,7 @@
             },
             "Icon": "https://i.kym-cdn.com/photos/images/original/002/083/322/038.gif",
             "HeaderImage": null,
-            "Category": "Theme",
+            "Category": "Passcode",
             "Caption": "Change your passcode",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/1076484358774472777/1076484359676243968/IMG_0808.png"
@@ -559,7 +559,7 @@
             },
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications1.png",
             "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
-            "Category": "Notification",
+            "Category": "Lock Screen",
             "Caption": "Hide No Older Notifications and Notification Center",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1094912819582992394/noolder.jpg"
