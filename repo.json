@@ -205,10 +205,7 @@
             "HeaderImage": null,
             "Category": "Control Center",
             "Caption": "集中モードとミラーリングを削除します。",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1092137920154050650/IMG_0441.jpg",
-                "https://cdn.discordapp.com/attachments/957426517107949612/1092137919952728127/IMG_0440.jpg"
-            ],
+            "Screenshot": null,
             "Releases": [
                 {
                     "Version": "1.0",
@@ -217,7 +214,7 @@
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092137919646548118/HideCC.misaka",
+                    "Package": "https://cdn.discordapp.com/attachments/1131697083406106716/1136059246987984987/com.Kumiki.HideCC.misaka",
                     "Description": "Possible to choose which to turn off."
                 }
             ],
