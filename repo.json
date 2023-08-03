@@ -9,7 +9,7 @@
         {
             "Name": "おにまいLock",
             "Description": "OnimaiLock",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "Kumiki"
             },
@@ -57,7 +57,7 @@
         {
             "Name": "AppleEvent Lock",
             "Description": "TrollLock",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
@@ -91,7 +91,7 @@
         {
             "Name": "Hello Lock",
             "Description": "TrollLock",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
@@ -123,7 +123,7 @@
         {
             "Name": "おにまい時計",
             "Description": "OnimaiClock",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
@@ -162,7 +162,7 @@
         {
             "Name": "Clock",
             "Description": "Normal Clock",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "Kumiki",
                 "Links": null
@@ -226,7 +226,7 @@
         {
             "Name": "NoNameBatteryWidget",
             "Description": "iOS15 & iOS16",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
@@ -291,7 +291,7 @@
         {
             "Name": "[FIX]Usagi Passcode",
             "Description": "Add Misaka_Resize, Reduce File size",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
@@ -325,7 +325,7 @@
         {
             "Name": "[Fix]Big Sur Clock Icon",
             "Description": "File size issue fixed",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "15.7.1",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
@@ -359,7 +359,7 @@
         {
             "Name": "[Fix]LS UI NaYan",
             "Description": null,
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "YangJiii",
                 "Links": [
@@ -391,7 +391,7 @@
         {
             "Name": "[FIX]Torch&Camera",
             "Description": "Support @2x",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "Huy Nguyen",
                 "Links": [
@@ -430,7 +430,7 @@
         {
             "Name": "[FIX]ElementTorch",
             "Description": "Support @2x",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "Huy Nguyen",
                 "Links": [
@@ -469,7 +469,7 @@
         {
             "Name": "[FIX]Mihari clock (Homescreen)",
             "Description": "File size issue fixed",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "15.7.1",
             "Author": {
                 "Label": "Huy Nguyen",
                 "Links": [
@@ -507,7 +507,7 @@
         {
             "Name": "[FIX]LS UI",
             "Description": "File size issue fixed",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -586,7 +586,7 @@
         {
             "Name": "[FIX]LS PokeButton",
             "Description": "Pokemon on LS!",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "Sugiuta",
                 "Links": [
@@ -621,7 +621,7 @@
             "Description": "toggle bug fix",
             "Category": "Control Center",
             "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "HackZy",
                 "Links": [
