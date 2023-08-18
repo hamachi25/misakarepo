@@ -226,7 +226,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_icon.jpg",
-            "HeaderImage": null,
+            "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_header.jpg",
             "Category": "Control Center",
             "Caption": "Hide Focus and Mirroring",
             "Screenshot": [
