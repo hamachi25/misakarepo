@@ -86,7 +86,10 @@
                 "Label": "YangJiii",
                 "Links": [
                     {
-                        "Label": "YangJiii",
+                        "Label": "Kumiki"
+                    },
+                    {
+                        "Label": "YangJiii (Images)",
                         "Link": "https://twitter.com/duongduong0908"
                     }
                 ]
@@ -128,7 +131,10 @@
                 "Label": "YangJiii",
                 "Links": [
                     {
-                        "Label": "YangJiii",
+                        "Label": "Kumiki"
+                    },
+                    {
+                        "Label": "YangJiii (Images)",
                         "Link": "https://twitter.com/duongduong0908"
                     }
                 ]
@@ -203,49 +209,8 @@
             "PackageID": "com.Kumiki.ClockOnimai"
         },
         {
-            "Name": "Clock",
-            "Description": "Normal Clock",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089498384030765097/efjaiohefu.png",
-            "HeaderImage": null,
-            "Category": "Clock",
-            "Caption": null,
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1089501898731700344/PNG.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089442152909647942/clock.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089499112493301760/com.Kumiki.ClockNormal.misaka",
-                    "Description": "Additional clock types"
-                }
-            ],
-            "PackageID": "com.Kumiki.ClockNormal"
-        },
-        {
             "Name": "HideCC",
-            "Description": "Hide FocusUI and Mirroring",
+            "Description": "Hide Focus and Mirroring",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "15.7.1",
             "Author": {
@@ -261,9 +226,9 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_icon.jpg",
-            "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_header.jpg",
+            "HeaderImage": null,
             "Category": "Control Center",
-            "Caption": "Hide FocusUI and Mirroring",
+            "Caption": "Hide Focus and Mirroring",
             "Screenshot": [
                 "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description1.jpg",
                 "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description2.jpg"
@@ -289,7 +254,7 @@
         },
         {
             "Name": "NoNameBatteryWidget",
-            "Description": "iOS15 & iOS16",
+            "Description": "Remove text from battery widget",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
@@ -335,7 +300,7 @@
         },
         {
             "Name": "HideSwipeUnlock",
-            "Description": "Only ja",
+            "Description": "Japanese only",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "15.7.1",
             "Author": {
@@ -349,7 +314,7 @@
             "Icon": null,
             "HeaderImage": null,
             "Category": "Lock Screen",
-            "Caption": "ロック画面の「上にスワイプしてロック解除」を非表示\nパスワード入力画面の「上にスワイプしてFaceID～」を「パスコードを入力」に変更",
+            "Caption": "Japanese only\nロック画面の「上にスワイプしてロック解除」を非表示\nパスワード入力画面の「上にスワイプしてFaceID～」を「パスコードを入力」に変更",
             "Screenshot": null,
             "Releases": [
                 {
@@ -389,7 +354,7 @@
             "Icon": "https://i.kym-cdn.com/photos/images/original/002/083/322/038.gif",
             "HeaderImage": null,
             "Category": "Passcode",
-            "Caption": "Change your passcode",
+            "Caption": "Change your passcode\n(Add Misaka_Resize, Reduce File size)",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/1076484358774472777/1076484359676243968/IMG_0808.png"
             ],
@@ -422,9 +387,9 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
-            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "HeaderImage": null,
             "Category": "Clock",
-            "Caption": "Change your clock icon",
+            "Caption": "Change your clock icon\n(File size issue fixed)",
             "Screenshot": [
                 "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/clockiconbigsur.jpg"
             ],
@@ -435,7 +400,7 @@
                     "Description": "Change your clock icon"
                 },
                 {
-                    "Version": "1.0",
+                    "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093906854809178162/com.yangjiii.bigsurclockicon.misaka",
                     "Description": "File size issue fixed"
                 }
@@ -444,7 +409,7 @@
         },
         {
             "Name": "[Fix]LS UI NaYan",
-            "Description": null,
+            "Description": "Add icon when charging",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
@@ -466,8 +431,10 @@
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
             "HeaderImage": null,
             "Category": "Lock Screen",
-            "Caption": null,
-            "Screenshot": null,
+            "Caption": "Change camera and flash icon\n(Add icon when charging)",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuinayan.jpg"
+            ],
             "Releases": [
                 {
                     "Version": "1.0",
@@ -504,9 +471,9 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0515.jpeg",
-            "HeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
+            "HeaderImage": null,
             "Category": "Lock Screen",
-            "Caption": "checkra1n bright your light",
+            "Caption": "checkra1n bright your light\n(Support @2x, Add icon when charging)",
             "Screenshot": [
                 "https://raw.githubusercontent.com/34306/iPA/main/img/torch_and_cam.PNG"
             ],
@@ -551,9 +518,9 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/A7569540-B7B5-4073-9D1C-6960215ED017.png",
-            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            "HeaderImage": null,
             "Category": "Lock Screen",
-            "Caption": "Change Torch and Camera icon to Genshin Elements\nSupport both iOS 15 and 16",
+            "Caption": "Change Torch and Camera icon to Genshin Elements\nSupport both iOS 15 and 16\n(Support @2x, Add icon when charging)",
             "Screenshot": [
                 "https://raw.githubusercontent.com/34306/iPA/main/img/31C4635A-A29D-4E94-B408-2E3DC063ADA6.png"
             ],
@@ -577,7 +544,7 @@
             "PackageID": "com.hn.gstorchfix"
         },
         {
-            "Name": "[FIX]Mihari clock (Homescreen)",
+            "Name": "[FIX]Mihari clock",
             "Description": "File size issue fixed",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "15.7.1",
@@ -595,9 +562,9 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/onimai.png",
-            "HeaderImage": "https://raw.githubusercontent.com/34306/34306.github.io/master/img/slides/2.jpg",
+            "HeaderImage": null,
             "Category": "Clock",
-            "Caption": "Mahiro-chan does not want to become a girl, Mihari 🥺",
+            "Caption": "Mahiro-chan does not want to become a girl, Mihari 🥺\n(File size issue fixed)",
             "Screenshot": [
                 "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0530.jpeg"
             ],
@@ -637,9 +604,9 @@
                 ]
             },
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header.png",
+            "HeaderImage": null,
             "Category": "Lock Screen",
-            "Caption": "iOS 15&16 Change camera and flash icon \n修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。",
+            "Caption": "iOS 15&16 Change camera and flash icon \n修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。\n(File size issue fixed, Add icon when charging)",
             "Screenshot": [
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png",
                 "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png"
@@ -678,11 +645,12 @@
                 ]
             },
             "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications1.png",
-            "HeaderImage": "https://github.com/huligang/coolwcat/raw/main/images/header/header1.png",
+            "HeaderImage": null,
             "Category": "Lock Screen",
-            "Caption": "Hide No Older Notifications and Notification Center",
+            "Caption": "iOS 15 No Older Notifications \n去掉通知中心没有更早通知文字。\n(Multilingual support)",
             "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1094912819582992394/noolder.jpg"
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png",
+                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-2.png"
             ],
             "Releases": [
                 {
@@ -726,7 +694,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/LSPokeButton%20_icon.jpg",
             "Category": "Lock Screen",
-            "Caption": null,
+            "Caption": "Pokemon on LS!\n(Add icon when charging)",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/957426517107949612/1093805313670529094/IMG_0517.jpg"
             ],
@@ -745,10 +713,10 @@
             "PackageID": "com.sugiuta.lspokebuttonfix"
         },
         {
-            "Name": "[FIX]OneCC",
+            "Name": "[FIX]OneUI Control Centre",
             "Description": "toggle bug fix",
             "Category": "Control Center",
-            "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
+            "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font\n(toggle bug fix)",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
@@ -771,7 +739,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon_new.png",
             "Screenshot": [
                 "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot1.png",
                 "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot2.png"
