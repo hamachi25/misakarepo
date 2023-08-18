@@ -257,11 +257,14 @@
                     }
                 ]
             },
-            "Icon": null,
-            "HeaderImage": null,
+            "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_icon.jpg",
+            "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_header.jpg",
             "Category": "Control Center",
-            "Caption": "集中モードとミラーリングを削除します。",
-            "Screenshot": null,
+            "Caption": "Hide FocusUI and Mirroring\n集中モードとミラーリングを削除します",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description1.jpg",
+                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description2.jpg"
+            ],
             "Releases": [
                 {
                     "Version": "1.0",
@@ -270,6 +273,11 @@
                 },
                 {
                     "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1131697083406106716/1136059246987984987/com.Kumiki.HideCC.misaka",
+                    "Description": "Possible to choose which to turn off."
+                },
+                {
+                    "Version": "2.0",
                     "Package": "https://cdn.discordapp.com/attachments/1131697083406106716/1136059246987984987/com.Kumiki.HideCC.misaka",
                     "Description": "Possible to choose which to turn off."
                 }
