@@ -4,7 +4,10 @@
     "RepositoryAuthor": "Kumiki",
     "RepositoryIcon": "https://cdn.discordapp.com/avatars/850370781456367688/d9a15adf2f9e5a3b0b0a6ed25d92432f.webp",
     "RepositoryWebsite": null,
-    "DefaultHeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/DefaultHeaderImage.jpg",
+    "Default": {
+        "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/DefaultHeaderImage.jpg",
+        "ViewCount": false
+    },
     "RepositoryContents": [
         {
             "Name": "おにまいLock",
