@@ -66,6 +66,11 @@
                     "Version": "1.5",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092132582046576780/com.Kumiki.LockOnimai.misaka",
                     "Description": "Change path"
+                },
+                {
+                    "Version": "1.6",
+                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/onimailock_v1.6.misaka",
+                    "Description": "Support ipad"
                 }
             ],
             "PackageID": "com.Kumiki.LockOnimai"
@@ -111,6 +116,11 @@
                     "Version": "1.1",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092135038960808007/com.Kumiki.LockAppleEvent.misaka",
                     "Description": "Change path"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/appleeventlock_v1.2.misaka",
+                    "Description": "Support ipad"
                 }
             ],
             "PackageID": "com.Kumiki.LockAppleEvent"
@@ -154,6 +164,11 @@
                     "Version": "2.0",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092769440476692591/com.Kumiki.LockHello.misaka",
                     "Description": "Add another color hello"
+                },
+                {
+                    "Version": "2.1",
+                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/hellolock_v2.1.misaka",
+                    "Description": "Support ipad"
                 }
             ],
             "PackageID": "com.Kumiki.LockHello"
@@ -246,7 +261,7 @@
                 },
                 {
                     "Version": "2.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1131697083406106716/1136059246987984987/com.Kumiki.HideCC.misaka",
+                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/hidecc_v2.0.misaka",
                     "Description": "Possible to choose which to turn off."
                 }
             ],
