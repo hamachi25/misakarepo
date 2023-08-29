@@ -219,6 +219,11 @@
                     "Version": "1.2",
                     "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089500119138832484/com.Kumiki.ClockOnimai.misaka",
                     "Description": "Responding to specification changes"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/onimaiClock_v1.3.misaka",
+                    "Description": "support ios16"
                 }
             ],
             "PackageID": "com.Kumiki.ClockOnimai"
