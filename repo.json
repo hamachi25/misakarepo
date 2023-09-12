@@ -10,6 +10,43 @@
     },
     "RepositoryContents": [
         {
+            "Name": "AppleEvent Lock 2023",
+            "Description": "AppleEvent 2023",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "Kumiki",
+                "Links": [
+                    {
+                        "Label": "Kumiki"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/appleeventlock2023_icon.jpg",
+            "HeaderImage": null,
+            "Category": "Lock Screen",
+            "Caption": "Wonderlust",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/appleeventlock2023_description1.jpg",
+                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/appleeventlock2023_description2.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/appleeventlock2023_v1.0.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.Kumiki.LockAppleEvent2023"
+        },
+        {
             "Name": "おにまいLock",
             "Description": "OnimaiLock",
             "MinIOSVersion": "15.0",
