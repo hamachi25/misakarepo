@@ -47,72 +47,6 @@
             "PackageID": "com.Kumiki.LockAppleEvent2023"
         },
         {
-            "Name": "おにまいLock",
-            "Description": "OnimaiLock",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
-            "HeaderImage": null,
-            "Category": "Lock Screen",
-            "Caption": "お兄ちゃんはおしまい！",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1091205233566290010/iorghasior.gif"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090177834359734282/onimailock.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090494747241619536/onimailock.misaka",
-                    "Description": "%Optional%"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091061708983914567/com.Kumiki.LockOnimai.misaka",
-                    "Description": "File size issue fixed"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091195046105198643/com.Kumiki.LockOnimai.misaka",
-                    "Description": "main.caml fixed"
-                },
-                {
-                    "Version": "1.4",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091661572025368616/com.Kumiki.LockOnimai.misaka",
-                    "Description": "File name fixed"
-                },
-                {
-                    "Version": "1.5",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092132582046576780/com.Kumiki.LockOnimai.misaka",
-                    "Description": "Change path"
-                },
-                {
-                    "Version": "1.6",
-                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/onimailock_v1.6.misaka",
-                    "Description": "Support ipad"
-                }
-            ],
-            "PackageID": "com.Kumiki.LockOnimai"
-        },
-        {
             "Name": "AppleEvent Lock",
             "Description": "TrollLock",
             "MinIOSVersion": "15.0",
@@ -209,6 +143,162 @@
                 }
             ],
             "PackageID": "com.Kumiki.LockHello"
+        },
+        {
+            "Name": "HideCC",
+            "Description": "Hide Focus and Mirroring",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Author": {
+                "Label": "Kumiki",
+                "Links": [
+                    {
+                        "Label": "Kumiki"
+                    },
+                    {
+                        "Label": "ChromiumCandy (FIX)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_icon.jpg",
+            "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_header.jpg",
+            "Category": "Control Center",
+            "Caption": "Hide Focus and Mirroring",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description1.jpg",
+                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description2.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092137919646548118/HideCC.misaka",
+                    "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1131697083406106716/1136059246987984987/com.Kumiki.HideCC.misaka",
+                    "Description": "Possible to choose which to turn off."
+                },
+                {
+                    "Version": "2.0",
+                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/hidecc_v2.0.misaka",
+                    "Description": "Possible to choose which to turn off."
+                }
+            ],
+            "PackageID": "com.Kumiki.HideCC"
+        },
+        {
+            "Name": "NoNameBatteryWidget",
+            "Description": "Remove text from battery widget",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "Kumiki",
+                "Links": [
+                    {
+                        "Label": "haxi0 (iOS16)",
+                        "Link": "https://twitter.com/haxi0sm"
+                    },
+                    {
+                        "Label": "34306 (Path)",
+                        "Link": "https://twitter.com/Little_34306"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091350930018009198/hguirsheriu.jpg",
+            "HeaderImage": null,
+            "Category": "SpringBoard",
+            "Caption": "Remove text from battery widget",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://haxi0sm.tk/misaka/NoNameBatteryWidget.misaka",
+                    "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091587883942563920/com.Kumiki.NoNameBatteryWidget.misaka",
+                    "Description": "Compatible with iOS15 and iOS16"
+                }
+            ],
+            "PackageID": "com.Kumiki.NoNameBatteryWidget"
+        },
+        {
+            "Name": "おにまいLock",
+            "Description": "OnimaiLock",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "Kumiki",
+                "Links": [
+                    {
+                        "Label": "Kumiki"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
+            "HeaderImage": null,
+            "Category": "Lock Screen",
+            "Caption": "お兄ちゃんはおしまい！",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/957426517107949612/1091205233566290010/iorghasior.gif"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090177834359734282/onimailock.misaka",
+                    "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090494747241619536/onimailock.misaka",
+                    "Description": "%Optional%"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091061708983914567/com.Kumiki.LockOnimai.misaka",
+                    "Description": "File size issue fixed"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091195046105198643/com.Kumiki.LockOnimai.misaka",
+                    "Description": "main.caml fixed"
+                },
+                {
+                    "Version": "1.4",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091661572025368616/com.Kumiki.LockOnimai.misaka",
+                    "Description": "File name fixed"
+                },
+                {
+                    "Version": "1.5",
+                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092132582046576780/com.Kumiki.LockOnimai.misaka",
+                    "Description": "Change path"
+                },
+                {
+                    "Version": "1.6",
+                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/onimailock_v1.6.misaka",
+                    "Description": "Support ipad"
+                }
+            ],
+            "PackageID": "com.Kumiki.LockOnimai"
         },
         {
             "Name": "おにまい時計",
