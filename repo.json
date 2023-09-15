@@ -42,6 +42,11 @@
                     "Version": "1.0",
                     "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/appleeventlock2023_v1.0.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/appleeventlock2023_v1.1.misaka",
+                    "Description": "change animation"
                 }
             ],
             "PackageID": "com.Kumiki.LockAppleEvent2023"
