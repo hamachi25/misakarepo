@@ -153,7 +153,14 @@
             "Name": "HideCC",
             "Description": "Hide Focus and Mirroring",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
