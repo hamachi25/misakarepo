@@ -361,52 +361,6 @@
             "PackageID": "com.Kumiki.ClockOnimai"
         },
         {
-            "Name": "NoNameBatteryWidget",
-            "Description": "Remove text from battery widget",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "haxi0 (iOS16)",
-                        "Link": "https://twitter.com/haxi0sm"
-                    },
-                    {
-                        "Label": "34306 (Path)",
-                        "Link": "https://twitter.com/Little_34306"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091350930018009198/hguirsheriu.jpg",
-            "HeaderImage": null,
-            "Category": "SpringBoard",
-            "Caption": "Remove text from battery widget",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://haxi0sm.tk/misaka/NoNameBatteryWidget.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091587883942563920/com.Kumiki.NoNameBatteryWidget.misaka",
-                    "Description": "Compatible with iOS15 and iOS16"
-                }
-            ],
-            "PackageID": "com.Kumiki.NoNameBatteryWidget"
-        },
-        {
             "Name": "HideSwipeUnlock",
             "Description": "Japanese only",
             "MinIOSVersion": "15.0",
