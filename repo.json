@@ -153,14 +153,7 @@
             "Name": "HideCC",
             "Description": "Hide Focus and Mirroring",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "15.7.1",
             "Author": {
                 "Label": "Kumiki",
                 "Links": [
@@ -366,50 +359,6 @@
                 }
             ],
             "PackageID": "com.Kumiki.ClockOnimai"
-        },
-        {
-            "Name": "HideCC",
-            "Description": "Hide Focus and Mirroring",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki"
-                    },
-                    {
-                        "Label": "ChromiumCandy (FIX)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_icon.jpg",
-            "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_header.jpg",
-            "Category": "Control Center",
-            "Caption": "Hide Focus and Mirroring",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description1.jpg",
-                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description2.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092137919646548118/HideCC.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1131697083406106716/1136059246987984987/com.Kumiki.HideCC.misaka",
-                    "Description": "Possible to choose which to turn off."
-                },
-                {
-                    "Version": "2.0",
-                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/hidecc_v2.0.misaka",
-                    "Description": "Possible to choose which to turn off."
-                }
-            ],
-            "PackageID": "com.Kumiki.HideCC"
         },
         {
             "Name": "NoNameBatteryWidget",
