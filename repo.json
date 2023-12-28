@@ -29,13 +29,13 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/appleeventlock2023_icon.jpg",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.LockAppleEvent2023.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "Wonderlust",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/appleeventlock2023_description1.jpg",
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/appleeventlock2023_description2.jpg"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.LockAppleEvent2023-1.png",
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.LockAppleEvent2023-2.png"
       ],
       "Releases": [
         {
@@ -75,12 +75,12 @@
           }
         ]
       },
-      "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091071310412648568/eghah.png",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.LockAppleEvent.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": null,
       "Screenshot": [
-        "https://cdn.discordapp.com/attachments/957426517107949612/1091206277578891324/Appleevent.gif"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.LockAppleEvent-1.png"
       ],
       "Releases": [
         {
@@ -125,7 +125,7 @@
           }
         ]
       },
-      "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1092136176632209419/LockHello.jpg",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.LockHello.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "Normal,White,Black",
@@ -166,13 +166,13 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_icon.jpg",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.HideCC.png",
       "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_header.jpg",
       "Category": "Control Center",
       "Caption": "Hide Focus and Mirroring",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description1.jpg",
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description2.jpg"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.HideCC-1.png",
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.HideCC-2.png"
       ],
       "Releases": [
         {
@@ -213,12 +213,12 @@
           }
         ]
       },
-      "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091350930018009198/hguirsheriu.jpg",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.NoNameBatteryWidget.png",
       "HeaderImage": null,
       "Category": "SpringBoard",
       "Caption": "Remove text from battery widget",
       "Screenshot": [
-        "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.NoNameBatteryWidget-1.png"
       ],
       "Releases": [
         {
@@ -249,12 +249,12 @@
           }
         ]
       },
-      "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.LockOnimai.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "お兄ちゃんはおしまい！",
       "Screenshot": [
-        "https://cdn.discordapp.com/attachments/957426517107949612/1091205233566290010/iorghasior.gif"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.LockOnimai-1.png"
       ],
       "Releases": [
         {
@@ -319,12 +319,12 @@
           }
         ]
       },
-      "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089499848165826560/clock_asahi.png",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.ClockOnimai.png",
       "HeaderImage": null,
       "Category": "Clock",
       "Caption": "あさひ、ねむ、もみじを Tweak Settingsから選択可！\nAsahi, Nemu and Momiji can be selected from Tweak Settings!",
       "Screenshot": [
-        "https://cdn.discordapp.com/attachments/957426517107949612/1089499848425881621/PNG.jpg"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.ClockOnimai-1.png"
       ],
       "Releases": [
         {
@@ -403,12 +403,12 @@
           }
         ]
       },
-      "Icon": "https://i.kym-cdn.com/photos/images/original/002/083/322/038.gif",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.yangjiii.usagipasscodefix.png",
       "HeaderImage": null,
       "Category": "Passcode",
       "Caption": "Change your passcode\n(Add Misaka_Resize, Reduce File size)",
       "Screenshot": [
-        "https://cdn.discordapp.com/attachments/1076484358774472777/1076484359676243968/IMG_0808.png"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.yangjiii.usagipasscodefix-1.png"
       ],
       "Releases": [
         {
@@ -438,12 +438,12 @@
           }
         ]
       },
-      "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.yangjiii.bigsurclockiconfix.png",
       "HeaderImage": null,
       "Category": "Clock",
       "Caption": "Change your clock icon\n(File size issue fixed)",
       "Screenshot": [
-        "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/clockiconbigsur.jpg"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.yangjiii.bigsurclockiconfix-1.png"
       ],
       "Releases": [
         {
@@ -480,12 +480,12 @@
           }
         ]
       },
-      "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.yangjiii.nayanlsuifix.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "Change camera and flash icon\n(Add icon when charging)",
       "Screenshot": [
-        "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuinayan.jpg"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.yangjiii.nayanlsuifix-1.png"
       ],
       "Releases": [
         {
@@ -522,12 +522,12 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0515.jpeg",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.hn.tncfix.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "checkra1n bright your light\n(Support @2x, Add icon when charging)",
       "Screenshot": [
-        "https://raw.githubusercontent.com/34306/iPA/main/img/torch_and_cam.PNG"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.hn.tncfix-1.png"
       ],
       "Releases": [
         {
@@ -569,12 +569,12 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/A7569540-B7B5-4073-9D1C-6960215ED017.png",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.hn.gstorchfix.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "Change Torch and Camera icon to Genshin Elements\nSupport both iOS 15 and 16\n(Support @2x, Add icon when charging)",
       "Screenshot": [
-        "https://raw.githubusercontent.com/34306/iPA/main/img/31C4635A-A29D-4E94-B408-2E3DC063ADA6.png"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.hn.gstorchfix-1.png"
       ],
       "Releases": [
         {
@@ -613,12 +613,12 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/onimai.png",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.34306.mhrclockfix.png",
       "HeaderImage": null,
       "Category": "Clock",
       "Caption": "Mahiro-chan does not want to become a girl, Mihari 🥺\n(File size issue fixed)",
       "Screenshot": [
-        "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0530.jpeg"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.34306.mhrclockfix-1.png"
       ],
       "Releases": [
         {
@@ -655,13 +655,13 @@
           }
         ]
       },
-      "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui.png",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.coolwcat.lsui15fix.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "iOS 15&16 Change camera and flash icon \n修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。\n(File size issue fixed, Add icon when charging)",
       "Screenshot": [
-        "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png",
-        "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.coolwcat.lsui15fix-1.png",
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.coolwcat.lsui15fix-2.png"
       ],
       "Releases": [
         {
@@ -696,13 +696,13 @@
           }
         ]
       },
-      "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications1.png",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.coolwcat.nooldernotificationsfix.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "iOS 15 No Older Notifications \n去掉通知中心没有更早通知文字。\n(Multilingual support)",
       "Screenshot": [
-        "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png",
-        "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-2.png"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.coolwcat.nooldernotificationsfix-1.png",
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.coolwcat.nooldernotificationsfix-2.png"
       ],
       "Releases": [
         {
@@ -744,11 +744,11 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/LSPokeButton%20_icon.jpg",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.sugiuta.lspokebuttonfix.png",
       "Category": "Lock Screen",
       "Caption": "Pokemon on LS!\n(Add icon when charging)",
       "Screenshot": [
-        "https://cdn.discordapp.com/attachments/957426517107949612/1093805313670529094/IMG_0517.jpg"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.sugiuta.lspokebuttonfix-1.png"
       ],
       "Releases": [
         {
@@ -791,10 +791,10 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon_new.png",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.hackzy.oneccfix.png",
       "Screenshot": [
-        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot1.png",
-        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot2.png"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.hackzy.oneccfix-1.png",
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.hackzy.oneccfix-2.png"
       ],
       "Releases": [
         {
