@@ -80,7 +80,7 @@
       "Category": "Lock Screen",
       "Caption": null,
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.LockAppleEvent-1.png"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.LockAppleEvent-1.gif"
       ],
       "Releases": [
         {
@@ -249,12 +249,12 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.LockOnimai.png",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.LockOnimai.gif",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "お兄ちゃんはおしまい！",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.LockOnimai-1.png"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.LockOnimai-1.gif"
       ],
       "Releases": [
         {
@@ -403,7 +403,7 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.yangjiii.usagipasscodefix.png",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.yangjiii.usagipasscodefix.gif",
       "HeaderImage": null,
       "Category": "Passcode",
       "Caption": "Change your passcode\n(Add Misaka_Resize, Reduce File size)",
