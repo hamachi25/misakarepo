@@ -1,824 +1,814 @@
 {
-    "RepositoryName": "Kumiki",
-    "RepositoryDescription": "Mainly fix and anime",
-    "RepositoryAuthor": "Kumiki",
-    "RepositoryIcon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/RepositoryIcon.jpg",
-    "RepositoryWebsite": null,
-    "Default": {
-        "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/DefaultHeaderImage.jpg",
-        "ViewCount": false
-    },
-    "RepositoryContents": [
+  "RepositoryName": "Kumiki",
+  "RepositoryDescription": "Mainly fix and anime",
+  "RepositoryAuthor": "Kumiki",
+  "RepositoryIcon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/RepositoryIcon.jpg",
+  "RepositoryWebsite": null,
+  "Default": {
+    "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/DefaultHeaderImage.jpg",
+    "ViewCount": false
+  },
+  "RepositoryContents": [
+    {
+      "Name": "AppleEvent Lock 2023",
+      "Description": "AppleEvent 2023",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "Kumiki",
+        "Links": [
+          {
+            "Label": "Kumiki"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/appleeventlock2023_icon.jpg",
+      "HeaderImage": null,
+      "Category": "Lock Screen",
+      "Caption": "Wonderlust",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/appleeventlock2023_description1.jpg",
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/appleeventlock2023_description2.jpg"
+      ],
+      "Releases": [
         {
-            "Name": "AppleEvent Lock 2023",
-            "Description": "AppleEvent 2023",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/appleeventlock2023_icon.jpg",
-            "HeaderImage": null,
-            "Category": "Lock Screen",
-            "Caption": "Wonderlust",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/appleeventlock2023_description1.jpg",
-                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/appleeventlock2023_description2.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/appleeventlock2023_v1.0.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/appleeventlock2023_v1.1.misaka",
-                    "Description": "change animation"
-                }
-            ],
-            "PackageID": "com.Kumiki.LockAppleEvent2023"
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockAppleEvent2023-v1.0.misaka",
+          "Description": null
         },
         {
-            "Name": "AppleEvent Lock",
-            "Description": "TrollLock",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "Kumiki"
-                    },
-                    {
-                        "Label": "YangJiii (Images)",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091071310412648568/eghah.png",
-            "HeaderImage": null,
-            "Category": "Lock Screen",
-            "Caption": null,
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1091206277578891324/Appleevent.gif"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091071309921923132/com.yangjiii.LockAppleEvent.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092135038960808007/com.Kumiki.LockAppleEvent.misaka",
-                    "Description": "Change path"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/appleeventlock_v1.2.misaka",
-                    "Description": "Support ipad"
-                }
-            ],
-            "PackageID": "com.Kumiki.LockAppleEvent"
-        },
-        {
-            "Name": "Hello Lock",
-            "Description": "TrollLock",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "Kumiki"
-                    },
-                    {
-                        "Label": "YangJiii (Images)",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1092136176632209419/LockHello.jpg",
-            "HeaderImage": null,
-            "Category": "Lock Screen",
-            "Caption": "Normal,White,Black",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092136993372254351/HelloLock.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "2.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092769440476692591/com.Kumiki.LockHello.misaka",
-                    "Description": "Add another color hello"
-                },
-                {
-                    "Version": "2.1",
-                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/hellolock_v2.1.misaka",
-                    "Description": "Support ipad"
-                }
-            ],
-            "PackageID": "com.Kumiki.LockHello"
-        },
-        {
-            "Name": "HideCC",
-            "Description": "Hide Focus and Mirroring",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki"
-                    },
-                    {
-                        "Label": "ChromiumCandy (FIX)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_icon.jpg",
-            "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_header.jpg",
-            "Category": "Control Center",
-            "Caption": "Hide Focus and Mirroring",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description1.jpg",
-                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description2.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092137919646548118/HideCC.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1131697083406106716/1136059246987984987/com.Kumiki.HideCC.misaka",
-                    "Description": "Possible to choose which to turn off."
-                },
-                {
-                    "Version": "2.0",
-                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/hidecc_v2.0.misaka",
-                    "Description": "Possible to choose which to turn off."
-                }
-            ],
-            "PackageID": "com.Kumiki.HideCC"
-        },
-        {
-            "Name": "NoNameBatteryWidget",
-            "Description": "Remove text from battery widget",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "haxi0 (iOS16)",
-                        "Link": "https://twitter.com/haxi0sm"
-                    },
-                    {
-                        "Label": "34306 (Path)",
-                        "Link": "https://twitter.com/Little_34306"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091350930018009198/hguirsheriu.jpg",
-            "HeaderImage": null,
-            "Category": "SpringBoard",
-            "Caption": "Remove text from battery widget",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://haxi0sm.tk/misaka/NoNameBatteryWidget.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091587883942563920/com.Kumiki.NoNameBatteryWidget.misaka",
-                    "Description": "Compatible with iOS15 and iOS16"
-                }
-            ],
-            "PackageID": "com.Kumiki.NoNameBatteryWidget"
-        },
-        {
-            "Name": "おにまいLock",
-            "Description": "OnimaiLock",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
-            "HeaderImage": null,
-            "Category": "Lock Screen",
-            "Caption": "お兄ちゃんはおしまい！",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1091205233566290010/iorghasior.gif"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090177834359734282/onimailock.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1090494747241619536/onimailock.misaka",
-                    "Description": "%Optional%"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091061708983914567/com.Kumiki.LockOnimai.misaka",
-                    "Description": "File size issue fixed"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091195046105198643/com.Kumiki.LockOnimai.misaka",
-                    "Description": "main.caml fixed"
-                },
-                {
-                    "Version": "1.4",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1091661572025368616/com.Kumiki.LockOnimai.misaka",
-                    "Description": "File name fixed"
-                },
-                {
-                    "Version": "1.5",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1092132582046576780/com.Kumiki.LockOnimai.misaka",
-                    "Description": "Change path"
-                },
-                {
-                    "Version": "1.6",
-                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/onimailock_v1.6.misaka",
-                    "Description": "Support ipad"
-                }
-            ],
-            "PackageID": "com.Kumiki.LockOnimai"
-        },
-        {
-            "Name": "おにまい時計",
-            "Description": "OnimaiClock",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki"
-                    },
-                    {
-                        "Label": "ChromiumCandy (FIX)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089499848165826560/clock_asahi.png",
-            "HeaderImage": null,
-            "Category": "Clock",
-            "Caption": "あさひ、ねむ、もみじを Tweak Settingsから選択可！\nAsahi, Nemu and Momiji can be selected from Tweak Settings!",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1089499848425881621/PNG.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1089068018111369366/Clock_Onimai.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089166995527835668/com.Kumiki.ClockOnimai.misaka",
-                    "Description": "File size issue fixed"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089500119138832484/com.Kumiki.ClockOnimai.misaka",
-                    "Description": "Responding to specification changes"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/onimaiClock_v1.3.misaka",
-                    "Description": "support ios16"
-                }
-            ],
-            "PackageID": "com.Kumiki.ClockOnimai"
-        },
-        {
-            "Name": "HideSwipeUnlock",
-            "Description": "Japanese only",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "Kumiki",
-                "Links": [
-                    {
-                        "Label": "Kumiki"
-                    }
-                ]
-            },
-            "Icon": null,
-            "HeaderImage": null,
-            "Category": "Lock Screen",
-            "Caption": "Japanese only\nロック画面の「上にスワイプしてロック解除」を非表示\nパスワード入力画面の「上にスワイプしてFaceID～」を「パスコードを入力」に変更",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1094920662835019836/HideSwipeUnlock.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://github.com/chimaha/misakarepo/raw/main/file/com.Kumiki.HideSwipeUnlock.misaka",
-                    "Description": "「上にスワイプしてロック解除」が消せていなかったので修正"
-                }
-            ],
-            "PackageID": "com.Kumiki.HideSwipeUnlock"
-        },
-        {
-            "Name": "[FIX]Usagi Passcode",
-            "Description": "Add Misaka_Resize, Reduce File size",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://i.kym-cdn.com/photos/images/original/002/083/322/038.gif",
-            "HeaderImage": null,
-            "Category": "Passcode",
-            "Caption": "Change your passcode\n(Add Misaka_Resize, Reduce File size)",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/1076484358774472777/1076484359676243968/IMG_0808.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.usagipasscode.misaka",
-                    "Description": "Change your passcode"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093529746169667715/com.yangjiii.usagipasscode.misaka",
-                    "Description": "Add Misaka_Resize, Reduce File size"
-                }
-            ],
-            "PackageID": "com.yangjiii.usagipasscodefix"
-        },
-        {
-            "Name": "[Fix]Big Sur Clock Icon",
-            "Description": "File size issue fixed",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
-            "HeaderImage": null,
-            "Category": "Clock",
-            "Caption": "Change your clock icon\n(File size issue fixed)",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/clockiconbigsur.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.bigsurclockicon.misaka",
-                    "Description": "Change your clock icon"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093906854809178162/com.yangjiii.bigsurclockicon.misaka",
-                    "Description": "File size issue fixed"
-                }
-            ],
-            "PackageID": "com.yangjiii.bigsurclockiconfix"
-        },
-        {
-            "Name": "[Fix]LS UI NaYan",
-            "Description": "Add icon when charging",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
-            "HeaderImage": null,
-            "Category": "Lock Screen",
-            "Caption": "Change camera and flash icon\n(Add icon when charging)",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuinayan.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.nayanlsui.misaka",
-                    "Description": "Change camera and flash icon"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1094920663271215184/com.yangjiii.nayanlsui.misaka",
-                    "Description": "Add icon when charging"
-                }
-            ],
-            "PackageID": "com.yangjiii.nayanlsuifix"
-        },
-        {
-            "Name": "[FIX]Torch&Camera",
-            "Description": "Support @2x",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Huy Nguyen",
-                "Links": [
-                    {
-                        "Label": "Huy Nguyen",
-                        "Link": "https://twitter.com/Little_34306"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0515.jpeg",
-            "HeaderImage": null,
-            "Category": "Lock Screen",
-            "Caption": "checkra1n bright your light\n(Support @2x, Add icon when charging)",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/34306/iPA/main/img/torch_and_cam.PNG"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Torch.Cam.misaka",
-                    "Description": "Torch and Camera or checkra1n and snowflake? 🤣"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089143088963911771/com.34306.tnc.misaka",
-                    "Description": "Support @2x"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093816406992224266/com.hn.tnc.misaka",
-                    "Description": "Add icon when charging"
-                }
-            ],
-            "PackageID": "com.hn.tncfix"
-        },
-        {
-            "Name": "[FIX]ElementTorch",
-            "Description": "Support @2x",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Huy Nguyen",
-                "Links": [
-                    {
-                        "Label": "Huy Nguyen",
-                        "Link": "https://twitter.com/Little_34306"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/A7569540-B7B5-4073-9D1C-6960215ED017.png",
-            "HeaderImage": null,
-            "Category": "Lock Screen",
-            "Caption": "Change Torch and Camera icon to Genshin Elements\nSupport both iOS 15 and 16\n(Support @2x, Add icon when charging)",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/34306/iPA/main/img/31C4635A-A29D-4E94-B408-2E3DC063ADA6.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/GenshinTorch.misaka",
-                    "Description": "Little 34306 in your area!"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089857801398009986/com.34306.gstorch.misaka",
-                    "Description": "Support @2x"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093813623559831552/com.hn.gstorch.misaka",
-                    "Description": "Add icon when charging"
-                }
-            ],
-            "PackageID": "com.hn.gstorchfix"
-        },
-        {
-            "Name": "[FIX]Mihari clock",
-            "Description": "File size issue fixed",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "Huy Nguyen",
-                "Links": [
-                    {
-                        "Label": "Huy Nguyen",
-                        "Link": "https://twitter.com/Little_34306"
-                    },
-                    {
-                        "Label": "しまじろん (FIX)",
-                        "Link": "https://twitter.com/9rv0ifi2qk8wx9r/status/1628317914263859202?s=46&t=x7qR0YjDQ5I_EkRaZojZpQ"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/onimai.png",
-            "HeaderImage": null,
-            "Category": "Clock",
-            "Caption": "Mahiro-chan does not want to become a girl, Mihari 🥺\n(File size issue fixed)",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0530.jpeg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/34306/iPA/releases/download/mskrp/Mihari.clock.misaka",
-                    "Description": "Onimaiiii!"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1088763508973371503/com.34306.mhrclock.misaka",
-                    "Description": "File size issue fixed"
-                }
-            ],
-            "PackageID": "com.34306.mhrclockfix"
-        },
-        {
-            "Name": "[FIX]LS UI",
-            "Description": "File size issue fixed",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui.png",
-            "HeaderImage": null,
-            "Category": "Lock Screen",
-            "Caption": "iOS 15&16 Change camera and flash icon \n修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。\n(File size issue fixed, Add icon when charging)",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.lsuiios15.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089192913851912222/com.coolwcat.lsui15.misaka",
-                    "Description": "File size issue fixed"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093810374920376380/com.coolwcat.lsui15.misaka",
-                    "Description": "Add icon when charging"
-                }
-            ],
-            "PackageID": "com.coolwcat.lsui15fix"
-        },
-        {
-            "Name": "[FIX]No Older Notifications",
-            "Description": "Multilingual support",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "coolwcat",
-                "Links": [
-                    {
-                        "Label": "coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications1.png",
-            "HeaderImage": null,
-            "Category": "Lock Screen",
-            "Caption": "iOS 15 No Older Notifications \n去掉通知中心没有更早通知文字。\n(Multilingual support)",
-            "Screenshot": [
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png",
-                "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/huligang/coolwcat/raw/main/misaka/com.coolwcat.nooldernotifications.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1089176666640752720/com.coolwcat.nooldernotifications.misaka",
-                    "Description": "Delete unnecessary parts of plist files"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1094908507570049024/com.coolwcat.nooldernotificationsfix.misaka",
-                    "Description": "Hide Notification Center"
-                }
-            ],
-            "PackageID": "com.coolwcat.nooldernotificationsfix"
-        },
-        {
-            "Name": "[FIX]LS PokeButton",
-            "Description": "Pokemon on LS!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Sugiuta",
-                "Links": [
-                    {
-                        "Label": "Sugiuta",
-                        "Link": null
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/LSPokeButton%20_icon.jpg",
-            "Category": "Lock Screen",
-            "Caption": "Pokemon on LS!\n(Add icon when charging)",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/957426517107949612/1093805313670529094/IMG_0517.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "0.1",
-                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1090303346226766004/com.sugiuta.lspokebutton.misaka",
-                    "Description": "Initial release"
-                },
-                {
-                    "Version": "0.2",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1093802476551028787/com.sugiuta.lspokebutton.misaka",
-                    "Description": "Add icon when charging"
-                }
-            ],
-            "PackageID": "com.sugiuta.lspokebuttonfix"
-        },
-        {
-            "Name": "[FIX]OneUI Control Centre",
-            "Description": "toggle bug fix",
-            "Category": "Control Center",
-            "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font\n(toggle bug fix)",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "HackZy",
-                "Links": [
-                    {
-                        "Label": "HackZy",
-                        "Link": "https://GitHub.com/hackzy01"
-                    },
-                    {
-                        "Label": "straight-tamago (fix)",
-                        "Link": "https://twitter.com/straight_tamago"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon_new.png",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot1.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.onecc.misaka",
-                    "Description": "Special credits to YangJii who's method is used in this tweak"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://cdn.discordapp.com/attachments/957426517107949612/1101554513090977822/Qn7CxsC.misaka",
-                    "Description": "toggle bug fix"
-                }
-            ],
-            "PackageID": "com.hackzy.oneccfix"
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockAppleEvent2023-v1.1.misaka",
+          "Description": "change animation"
         }
-    ]
+      ],
+      "PackageID": "com.Kumiki.LockAppleEvent2023"
+    },
+    {
+      "Name": "AppleEvent Lock",
+      "Description": "TrollLock",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "YangJiii",
+        "Links": [
+          {
+            "Label": "Kumiki"
+          },
+          {
+            "Label": "YangJiii (Images)",
+            "Link": "https://twitter.com/duongduong0908"
+          }
+        ]
+      },
+      "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091071310412648568/eghah.png",
+      "HeaderImage": null,
+      "Category": "Lock Screen",
+      "Caption": null,
+      "Screenshot": [
+        "https://cdn.discordapp.com/attachments/957426517107949612/1091206277578891324/Appleevent.gif"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockAppleEvent-v1.0.misaka",
+          "Description": null
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockAppleEvent-v1.1.misaka",
+          "Description": "Change path"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockAppleEvent-v1.2.misaka",
+          "Description": "Support ipad"
+        }
+      ],
+      "PackageID": "com.Kumiki.LockAppleEvent"
+    },
+    {
+      "Name": "Hello Lock",
+      "Description": "TrollLock",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "YangJiii",
+        "Links": [
+          {
+            "Label": "Kumiki"
+          },
+          {
+            "Label": "YangJiii (Images)",
+            "Link": "https://twitter.com/duongduong0908"
+          }
+        ]
+      },
+      "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1092136176632209419/LockHello.jpg",
+      "HeaderImage": null,
+      "Category": "Lock Screen",
+      "Caption": "Normal,White,Black",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockHello-v1.0.misaka",
+          "Description": null
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockHello-v2.0.misaka",
+          "Description": "Add another color hello"
+        },
+        {
+          "Version": "2.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockHello-v2.1.misaka",
+          "Description": "Support ipad"
+        }
+      ],
+      "PackageID": "com.Kumiki.LockHello"
+    },
+    {
+      "Name": "HideCC",
+      "Description": "Hide Focus and Mirroring",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.7.1",
+      "Author": {
+        "Label": "Kumiki",
+        "Links": [
+          {
+            "Label": "Kumiki"
+          },
+          {
+            "Label": "ChromiumCandy (FIX)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_icon.jpg",
+      "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_header.jpg",
+      "Category": "Control Center",
+      "Caption": "Hide Focus and Mirroring",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description1.jpg",
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_description2.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.HideCC-v1.1.misaka",
+          "Description": "Possible to choose which to turn off."
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.HideCC-v2.0.misaka",
+          "Description": "Possible to choose which to turn off."
+        }
+      ],
+      "PackageID": "com.Kumiki.HideCC"
+    },
+    {
+      "Name": "NoNameBatteryWidget",
+      "Description": "Remove text from battery widget",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "Kumiki",
+        "Links": [
+          {
+            "Label": "haxi0 (iOS16)",
+            "Link": "https://twitter.com/haxi0sm"
+          },
+          {
+            "Label": "34306 (Path)",
+            "Link": "https://twitter.com/Little_34306"
+          }
+        ]
+      },
+      "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1091350930018009198/hguirsheriu.jpg",
+      "HeaderImage": null,
+      "Category": "SpringBoard",
+      "Caption": "Remove text from battery widget",
+      "Screenshot": [
+        "https://cdn.discordapp.com/attachments/957426517107949612/1089741153877905538/IMG_0381.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.NoNameBatteryWidget-v1.1.misaka",
+          "Description": "Compatible with iOS15 and iOS16"
+        }
+      ],
+      "PackageID": "com.Kumiki.NoNameBatteryWidget"
+    },
+    {
+      "Name": "おにまいLock",
+      "Description": "OnimaiLock",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "Kumiki",
+        "Links": [
+          {
+            "Label": "Kumiki"
+          }
+        ]
+      },
+      "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1090178823179489280/onimailock.jpg",
+      "HeaderImage": null,
+      "Category": "Lock Screen",
+      "Caption": "お兄ちゃんはおしまい！",
+      "Screenshot": [
+        "https://cdn.discordapp.com/attachments/957426517107949612/1091205233566290010/iorghasior.gif"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.0.misaka",
+          "Description": null
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.1.misaka",
+          "Description": "%Optional%"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.2.misaka",
+          "Description": "File size issue fixed"
+        },
+        {
+          "Version": "1.3",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.3.misaka",
+          "Description": "main.caml fixed"
+        },
+        {
+          "Version": "1.4",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.4.misaka",
+          "Description": "File name fixed"
+        },
+        {
+          "Version": "1.5",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.5.misaka",
+          "Description": "Change path"
+        },
+        {
+          "Version": "1.6",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.6.misaka",
+          "Description": "Support ipad"
+        }
+      ],
+      "PackageID": "com.Kumiki.LockOnimai"
+    },
+    {
+      "Name": "おにまい時計",
+      "Description": "OnimaiClock",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "Kumiki",
+        "Links": [
+          {
+            "Label": "Kumiki"
+          },
+          {
+            "Label": "ChromiumCandy (FIX)",
+            "Link": "https://twitter.com/ChromiumCandy"
+          }
+        ]
+      },
+      "Icon": "https://cdn.discordapp.com/attachments/957426517107949612/1089499848165826560/clock_asahi.png",
+      "HeaderImage": null,
+      "Category": "Clock",
+      "Caption": "あさひ、ねむ、もみじを Tweak Settingsから選択可！\nAsahi, Nemu and Momiji can be selected from Tweak Settings!",
+      "Screenshot": [
+        "https://cdn.discordapp.com/attachments/957426517107949612/1089499848425881621/PNG.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.ClockOnimai-v1.0.misaka",
+          "Description": null
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.ClockOnimai-v1.1.misaka",
+          "Description": "File size issue fixed"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.ClockOnimai-v1.2.misaka",
+          "Description": "Responding to specification changes"
+        },
+        {
+          "Version": "1.3",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.ClockOnimai-v1.3.misaka",
+          "Description": "support ios16"
+        }
+      ],
+      "PackageID": "com.Kumiki.ClockOnimai"
+    },
+    {
+      "Name": "HideSwipeUnlock",
+      "Description": "Japanese only",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.7.1",
+      "Author": {
+        "Label": "Kumiki",
+        "Links": [
+          {
+            "Label": "Kumiki"
+          }
+        ]
+      },
+      "Icon": null,
+      "HeaderImage": null,
+      "Category": "Lock Screen",
+      "Caption": "Japanese only\nロック画面の「上にスワイプしてロック解除」を非表示\nパスワード入力画面の「上にスワイプしてFaceID～」を「パスコードを入力」に変更",
+      "Screenshot": null,
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.HideSwipeUnlock-v1.0.misaka",
+          "Description": null
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.HideSwipeUnlock-v1.1.misaka",
+          "Description": "「上にスワイプしてロック解除」が消せていなかったので修正"
+        }
+      ],
+      "PackageID": "com.Kumiki.HideSwipeUnlock"
+    },
+    {
+      "Name": "[FIX]Usagi Passcode",
+      "Description": "Add Misaka_Resize, Reduce File size",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "YangJiii",
+        "Links": [
+          {
+            "Label": "YangJiii",
+            "Link": "https://twitter.com/duongduong0908"
+          }
+        ]
+      },
+      "Icon": "https://i.kym-cdn.com/photos/images/original/002/083/322/038.gif",
+      "HeaderImage": null,
+      "Category": "Passcode",
+      "Caption": "Change your passcode\n(Add Misaka_Resize, Reduce File size)",
+      "Screenshot": [
+        "https://cdn.discordapp.com/attachments/1076484358774472777/1076484359676243968/IMG_0808.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.yangjiii.usagipasscodefix-v1.0.misaka",
+          "Description": "Change your passcode"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.yangjiii.usagipasscodefix-v1.1.misaka",
+          "Description": "Add Misaka_Resize, Reduce File size"
+        }
+      ],
+      "PackageID": "com.yangjiii.usagipasscodefix"
+    },
+    {
+      "Name": "[Fix]Big Sur Clock Icon",
+      "Description": "File size issue fixed",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.7.1",
+      "Author": {
+        "Label": "YangJiii",
+        "Links": [
+          {
+            "Label": "YangJiii",
+            "Link": "https://twitter.com/duongduong0908"
+          }
+        ]
+      },
+      "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
+      "HeaderImage": null,
+      "Category": "Clock",
+      "Caption": "Change your clock icon\n(File size issue fixed)",
+      "Screenshot": [
+        "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/clockiconbigsur.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.yangjiii.bigsurclockiconfix-v1.0.misaka",
+          "Description": "Change your clock icon"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.yangjiii.bigsurclockiconfix-v1.1.misaka",
+          "Description": "File size issue fixed"
+        }
+      ],
+      "PackageID": "com.yangjiii.bigsurclockiconfix"
+    },
+    {
+      "Name": "[Fix]LS UI NaYan",
+      "Description": "Add icon when charging",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "YangJiii",
+        "Links": [
+          {
+            "Label": "YangJiii",
+            "Link": "https://twitter.com/duongduong0908"
+          }
+        ]
+      },
+      "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+      "HeaderImage": null,
+      "Category": "Lock Screen",
+      "Caption": "Change camera and flash icon\n(Add icon when charging)",
+      "Screenshot": [
+        "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuinayan.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.yangjiii.nayanlsuifix-v1.0.misaka",
+          "Description": "Change camera and flash icon"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.yangjiii.nayanlsuifix-v1.1.misaka",
+          "Description": "Add icon when charging"
+        }
+      ],
+      "PackageID": "com.yangjiii.nayanlsuifix"
+    },
+    {
+      "Name": "[FIX]Torch&Camera",
+      "Description": "Support @2x",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "Huy Nguyen",
+        "Links": [
+          {
+            "Label": "Huy Nguyen",
+            "Link": "https://twitter.com/Little_34306"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0515.jpeg",
+      "HeaderImage": null,
+      "Category": "Lock Screen",
+      "Caption": "checkra1n bright your light\n(Support @2x, Add icon when charging)",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/34306/iPA/main/img/torch_and_cam.PNG"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hn.tncfix-v1.0.misaka",
+          "Description": "Torch and Camera or checkra1n and snowflake? 🤣"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hn.tncfix-v1.1.misaka",
+          "Description": "Support @2x"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hn.tncfix-v1.2.misaka",
+          "Description": "Add icon when charging"
+        }
+      ],
+      "PackageID": "com.hn.tncfix"
+    },
+    {
+      "Name": "[FIX]ElementTorch",
+      "Description": "Support @2x",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "Huy Nguyen",
+        "Links": [
+          {
+            "Label": "Huy Nguyen",
+            "Link": "https://twitter.com/Little_34306"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/A7569540-B7B5-4073-9D1C-6960215ED017.png",
+      "HeaderImage": null,
+      "Category": "Lock Screen",
+      "Caption": "Change Torch and Camera icon to Genshin Elements\nSupport both iOS 15 and 16\n(Support @2x, Add icon when charging)",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/34306/iPA/main/img/31C4635A-A29D-4E94-B408-2E3DC063ADA6.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hn.gstorchfix-v1.0.misaka",
+          "Description": "Little 34306 in your area!"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hn.gstorchfix-v1.1.misaka",
+          "Description": "Support @2x"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hn.gstorchfix-v1.2.misaka",
+          "Description": "Add icon when charging"
+        }
+      ],
+      "PackageID": "com.hn.gstorchfix"
+    },
+    {
+      "Name": "[FIX]Mihari clock",
+      "Description": "File size issue fixed",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.7.1",
+      "Author": {
+        "Label": "Huy Nguyen",
+        "Links": [
+          {
+            "Label": "Huy Nguyen",
+            "Link": "https://twitter.com/Little_34306"
+          },
+          {
+            "Label": "しまじろん (FIX)",
+            "Link": "https://twitter.com/9rv0ifi2qk8wx9r/status/1628317914263859202?s=46&t=x7qR0YjDQ5I_EkRaZojZpQ"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/onimai.png",
+      "HeaderImage": null,
+      "Category": "Clock",
+      "Caption": "Mahiro-chan does not want to become a girl, Mihari 🥺\n(File size issue fixed)",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_0530.jpeg"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.34306.mhrclockfix-v1.0.misaka",
+          "Description": "Onimaiiii!"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.34306.mhrclockfix-v1.1.misaka",
+          "Description": "File size issue fixed"
+        }
+      ],
+      "PackageID": "com.34306.mhrclockfix"
+    },
+    {
+      "Name": "[FIX]LS UI",
+      "Description": "File size issue fixed",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "Coolwcat",
+        "Links": [
+          {
+            "Label": "Coolwcat",
+            "Link": "https://twitter.com/coolwcat"
+          }
+        ]
+      },
+      "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/lsui.png",
+      "HeaderImage": null,
+      "Category": "Lock Screen",
+      "Caption": "iOS 15&16 Change camera and flash icon \n修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。\n(File size issue fixed, Add icon when charging)",
+      "Screenshot": [
+        "https://github.com/huligang/coolwcat/raw/main/images/screenshot/lsui15.png",
+        "https://github.com/huligang/coolwcat/raw/main/images/screenshot/4-5-6-9g-1.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.coolwcat.lsui15fix-v1.0.misaka",
+          "Description": null
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.coolwcat.lsui15fix-v1.1.misaka",
+          "Description": "File size issue fixed"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.coolwcat.lsui15fix-v1.2.misaka",
+          "Description": "Add icon when charging"
+        }
+      ],
+      "PackageID": "com.coolwcat.lsui15fix"
+    },
+    {
+      "Name": "[FIX]No Older Notifications",
+      "Description": "Multilingual support",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "15.7.1",
+      "Author": {
+        "Label": "coolwcat",
+        "Links": [
+          {
+            "Label": "coolwcat",
+            "Link": "https://twitter.com/coolwcat"
+          }
+        ]
+      },
+      "Icon": "https://github.com/huligang/coolwcat/raw/main/images/icon/nooldernotifications1.png",
+      "HeaderImage": null,
+      "Category": "Lock Screen",
+      "Caption": "iOS 15 No Older Notifications \n去掉通知中心没有更早通知文字。\n(Multilingual support)",
+      "Screenshot": [
+        "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-1.png",
+        "https://github.com/huligang/coolwcat/raw/main/images/screenshot/nooldernotifications-2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.coolwcat.nooldernotificationsfix-v1.0.misaka",
+          "Description": null
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.coolwcat.nooldernotificationsfix-v1.1.misaka",
+          "Description": "Delete unnecessary parts of plist files"
+        },
+        {
+          "Version": "1.2",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.coolwcat.nooldernotificationsfix-v1.2.misaka",
+          "Description": "Hide Notification Center"
+        }
+      ],
+      "PackageID": "com.coolwcat.nooldernotificationsfix"
+    },
+    {
+      "Name": "[FIX]LS PokeButton",
+      "Description": "Pokemon on LS!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "Sugiuta",
+        "Links": [
+          {
+            "Label": "Sugiuta",
+            "Link": null
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/LSPokeButton%20_icon.jpg",
+      "Category": "Lock Screen",
+      "Caption": "Pokemon on LS!\n(Add icon when charging)",
+      "Screenshot": [
+        "https://cdn.discordapp.com/attachments/957426517107949612/1093805313670529094/IMG_0517.jpg"
+      ],
+      "Releases": [
+        {
+          "Version": "0.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.sugiuta.lspokebuttonfix-v0.1.misaka",
+          "Description": "Initial release"
+        },
+        {
+          "Version": "0.2",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.sugiuta.lspokebuttonfix-v0.2.misaka",
+          "Description": "Add icon when charging"
+        }
+      ],
+      "PackageID": "com.sugiuta.lspokebuttonfix"
+    },
+    {
+      "Name": "[FIX]OneUI Control Centre",
+      "Description": "toggle bug fix",
+      "Category": "Control Center",
+      "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font\n(toggle bug fix)",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.6",
+      "AdditionalSupportedIOS": {
+        "MinIOSVersion_CustomLabel": "15.0",
+        "MaxIOSVersion_CustomLabel": "16.6b1",
+        "Build": [
+          "20G5026e"
+        ]
+      },
+      "Author": {
+        "Label": "HackZy",
+        "Links": [
+          {
+            "Label": "HackZy",
+            "Link": "https://GitHub.com/hackzy01"
+          },
+          {
+            "Label": "straight-tamago (fix)",
+            "Link": "https://twitter.com/straight_tamago"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon_new.png",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot1.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hackzy.oneccfix-v1.0.misaka",
+          "Description": "Special credits to YangJii who's method is used in this tweak"
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hackzy.oneccfix-v1.1.misaka",
+          "Description": "toggle bug fix"
+        }
+      ],
+      "PackageID": "com.hackzy.oneccfix"
+    }
+  ]
 }
