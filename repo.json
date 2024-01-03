@@ -379,7 +379,7 @@
       "Name": "[Fix]Big Sur Clock Icon",
       "Description": "File size issue fixed",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "15.7.1",
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "YangJiii",
         "Links": [
@@ -527,7 +527,7 @@
       "Name": "[FIX]Mihari clock",
       "Description": "File size issue fixed",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "15.7.1",
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "Huy Nguyen",
         "Links": [
