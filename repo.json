@@ -13,14 +13,7 @@
       "Name": "AppleEvent Lock 2023",
       "Description": "AppleEvent 2023",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "Kumiki",
         "Links": [
@@ -55,14 +48,7 @@
       "Name": "AppleEvent Lock",
       "Description": "TrollLock",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "YangJiii",
         "Links": [
@@ -105,14 +91,7 @@
       "Name": "Hello Lock",
       "Description": "TrollLock",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "YangJiii",
         "Links": [
@@ -192,14 +171,7 @@
       "Name": "NoNameBatteryWidget",
       "Description": "Remove text from battery widget",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "Kumiki",
         "Links": [
@@ -233,14 +205,7 @@
       "Name": "おにまいLock",
       "Description": "OnimaiLock",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "Kumiki",
         "Links": [
@@ -249,7 +214,7 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.LockOnimai.gif",
+      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.LockOnimai.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "お兄ちゃんはおしまい！",
@@ -299,14 +264,7 @@
       "Name": "おにまい時計",
       "Description": "OnimaiClock",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "Kumiki",
         "Links": [
@@ -386,14 +344,7 @@
       "Name": "[FIX]Usagi Passcode",
       "Description": "Add Misaka_Resize, Reduce File size",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "YangJiii",
         "Links": [
@@ -442,9 +393,7 @@
       "HeaderImage": null,
       "Category": "Clock",
       "Caption": "Change your clock icon\n(File size issue fixed)",
-      "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.yangjiii.bigsurclockiconfix-1.png"
-      ],
+      "Screenshot": [],
       "Releases": [
         {
           "Version": "1.0",
@@ -463,14 +412,7 @@
       "Name": "[Fix]LS UI NaYan",
       "Description": "Add icon when charging",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "YangJiii",
         "Links": [
@@ -485,7 +427,7 @@
       "Category": "Lock Screen",
       "Caption": "Change camera and flash icon\n(Add icon when charging)",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.yangjiii.nayanlsuifix-1.png"
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.yangjiii.nayanlsuifix-1.jpg"
       ],
       "Releases": [
         {
@@ -505,14 +447,7 @@
       "Name": "[FIX]Torch&Camera",
       "Description": "Support @2x",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "Huy Nguyen",
         "Links": [
@@ -552,14 +487,7 @@
       "Name": "[FIX]ElementTorch",
       "Description": "Support @2x",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "Huy Nguyen",
         "Links": [
@@ -638,14 +566,7 @@
       "Name": "[FIX]LS UI",
       "Description": "File size issue fixed",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "Coolwcat",
         "Links": [
@@ -658,7 +579,7 @@
       "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.coolwcat.lsui15fix.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
-      "Caption": "iOS 15&16 Change camera and flash icon \n修改锁屏相机和手电筒按钮，适用于iOS15&16系统设备使用。\n(File size issue fixed, Add icon when charging)",
+      "Caption": "iOS 15&16 Change camera and flash icon\n(File size issue fixed, Add icon when charging)",
       "Screenshot": [
         "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.coolwcat.lsui15fix-1.png",
         "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.coolwcat.lsui15fix-2.png"
@@ -699,7 +620,7 @@
       "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.coolwcat.nooldernotificationsfix.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
-      "Caption": "iOS 15 No Older Notifications \n去掉通知中心没有更早通知文字。\n(Multilingual support)",
+      "Caption": "iOS 15 No Older Notifications\n(Multilingual support)",
       "Screenshot": [
         "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.coolwcat.nooldernotificationsfix-1.png",
         "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.coolwcat.nooldernotificationsfix-2.png"
@@ -727,14 +648,7 @@
       "Name": "[FIX]LS PokeButton",
       "Description": "Pokemon on LS!",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "Sugiuta",
         "Links": [
@@ -770,14 +684,7 @@
       "Category": "Control Center",
       "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font\n(toggle bug fix)",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6",
-      "AdditionalSupportedIOS": {
-        "MinIOSVersion_CustomLabel": "15.0",
-        "MaxIOSVersion_CustomLabel": "16.6b1",
-        "Build": [
-          "20G5026e"
-        ]
-      },
+      "MaxIOSVersion": "16.6.1",
       "Author": {
         "Label": "HackZy",
         "Links": [
