@@ -14,6 +14,7 @@
       "Description": "AppleEvent 2023",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "Kumiki",
         "Links": [
@@ -49,6 +50,7 @@
       "Description": "TrollLock",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "YangJiii",
         "Links": [
@@ -92,6 +94,7 @@
       "Description": "TrollLock",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "YangJiii",
         "Links": [
@@ -133,6 +136,7 @@
       "Description": "Hide Focus and Mirroring",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "15.7.1",
+      "compatibleExploit": ["MDC"],
       "Author": {
         "Label": "Kumiki",
         "Links": [
@@ -172,6 +176,7 @@
       "Description": "Remove text from battery widget",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "Kumiki",
         "Links": [
@@ -206,6 +211,7 @@
       "Description": "OnimaiLock",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "Kumiki",
         "Links": [
@@ -265,6 +271,7 @@
       "Description": "OnimaiClock",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "Kumiki",
         "Links": [
@@ -313,6 +320,7 @@
       "Description": "Japanese only",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "15.7.1",
+      "compatibleExploit": ["MDC"],
       "Author": {
         "Label": "Kumiki",
         "Links": [
@@ -344,7 +352,8 @@
       "Name": "[FIX]Usagi Passcode",
       "Description": "Add Misaka_Resize, Reduce File size",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.6.1",
+      "MaxIOSVersion": "17.0",
+      "compatibleExploit": ["MDC", "KFD", "TrollStore"],
       "Author": {
         "Label": "YangJiii",
         "Links": [
@@ -380,6 +389,7 @@
       "Description": "File size issue fixed",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "YangJiii",
         "Links": [
@@ -413,6 +423,7 @@
       "Description": "Add icon when charging",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "YangJiii",
         "Links": [
@@ -448,6 +459,7 @@
       "Description": "Support @2x",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "Huy Nguyen",
         "Links": [
@@ -488,6 +500,7 @@
       "Description": "Support @2x",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "Huy Nguyen",
         "Links": [
@@ -528,6 +541,7 @@
       "Description": "File size issue fixed",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "Huy Nguyen",
         "Links": [
@@ -567,6 +581,7 @@
       "Description": "File size issue fixed",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "Coolwcat",
         "Links": [
@@ -608,6 +623,7 @@
       "Description": "Multilingual support",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "15.7.1",
+      "compatibleExploit": ["MDC"],
       "Author": {
         "Label": "coolwcat",
         "Links": [
@@ -649,6 +665,7 @@
       "Description": "Pokemon on LS!",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "Sugiuta",
         "Links": [
@@ -685,6 +702,7 @@
       "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font\n(toggle bug fix)",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6.1",
+      "compatibleExploit": ["MDC", "KFD"],
       "Author": {
         "Label": "HackZy",
         "Links": [
