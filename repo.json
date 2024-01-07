@@ -352,7 +352,6 @@
       "Name": "[FIX]Usagi Passcode",
       "Description": "Add Misaka_Resize, Reduce File size",
       "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "17.0",
       "compatibleExploit": ["MDC", "KFD", "TrollStore"],
       "Author": {
         "Label": "YangJiii",
