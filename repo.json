@@ -287,7 +287,7 @@
       "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.ClockOnimai.png",
       "HeaderImage": null,
       "Category": "Clock",
-      "Caption": "あさひ、ねむ、もみじを Tweak Settingsから選択可！\nAsahi, Nemu and Momiji can be selected from Tweak Settings!",
+      "Caption": "あさひ、ねむ、もみじを Tweak Settingsから選択可！",
       "Screenshot": [
         "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.ClockOnimai-1.png"
       ],
@@ -347,42 +347,6 @@
         }
       ],
       "PackageID": "com.Kumiki.HideSwipeUnlock"
-    },
-    {
-      "Name": "[FIX]Usagi Passcode",
-      "Description": "Add Misaka_Resize, Reduce File size",
-      "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "177.0",
-      "compatibleExploit": ["MDC", "KFD", "TrollStore", "No Exploit"],
-      "Author": {
-        "Label": "YangJiii",
-        "Links": [
-          {
-            "Label": "YangJiii",
-            "Link": "https://twitter.com/duongduong0908"
-          }
-        ]
-      },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.yangjiii.usagipasscodefix.gif",
-      "HeaderImage": null,
-      "Category": "Passcode",
-      "Caption": "Change your passcode\n(Add Misaka_Resize, Reduce File size)",
-      "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.yangjiii.usagipasscodefix-1.png"
-      ],
-      "Releases": [
-        {
-          "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.yangjiii.usagipasscodefix-v1.0.misaka",
-          "Description": "Change your passcode"
-        },
-        {
-          "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.yangjiii.usagipasscodefix-v1.1.misaka",
-          "Description": "Add Misaka_Resize, Reduce File size"
-        }
-      ],
-      "PackageID": "com.yangjiii.usagipasscodefix"
     },
     {
       "Name": "[Fix]Big Sur Clock Icon",
